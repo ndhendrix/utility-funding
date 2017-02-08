@@ -10,24 +10,6 @@ setwd("D:/ndhen/OneDrive/School/HSERV project/Scraper")
 # fix 'cannot be authenticated error'
 set_config(config(ssl_verifypeer = 0L))
 
-
-# 2002-01-01039
-# 2003-01-00760
-# 2004-01-01314
-# 2005-01-00028
-# 2006-01-02660
-# 2007-01-03046
-# 2008-01-03528
-# 2009-01-05560
-# 2010-01-06448
-# 2011-01-07718
-# 2012-01-09736
-# 2013-01-10878
-# 2014-01-17011
-# 2015-01-16119
-# 2016
-# 2017
-
 # allow creation of user tag and whatever
 myurl <- "http://healtheconomics.tuftsmedicalcenter.org/cear2/search/search_s.aspx"
 hello <- html_session(myurl)
@@ -155,33 +137,10 @@ weights <- rbind(weights_2015, weights_2014, weights_2013, weights_2012,
                  weights_2003, weights_2002)
 write.csv(weights, "weights.csv")
 
-  
-  # 2002-01-01039
-  # 2003-01-00760
-  # 2004-01-01314
-  # 2005-01-00028
-  # 2006-01-02660
-  # 2007-01-03046
-  # 2008-01-03528
-  # 2009-01-05560
-  # 2010-01-06448
-  # 2011-01-07718
-# 2012-01-09736
-# 2013-01-10878
-# 2014-01-17011
-# 2015-01-16119
-# 2016
-# 2017
 
 # test urls
 # has results : http://healtheconomics.tuftsmedicalcenter.org/cear2/search/weight0.aspx?l=1&articleid=2015-01-21069
 # no results : http://healtheconomics.tuftsmedicalcenter.org/cear2/search/weight0.aspx?l=1&articleid=2015-01-21155
-# multiple pages : http://healtheconomics.tuftsmedicalcenter.org/cear2/search/weight0.aspx?l=1&articleid=2013-01-14581
-
-# Things to tidy up:
-# - multiple pages (see above for sample site)
-# - 0 or 1 utilities 
-# - Year 2014, ID 10878 through 17010 (weights AND articles)
 
 ########## For article scraping
 
