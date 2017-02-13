@@ -22,35 +22,35 @@ model_string = "
 model {
 # produces estimate of reported study utility 
 for ( u in 1:n_utils ) {
-y[u] ~ dbeta( omega_s[state[u], funder[u]] * ( kappa_s[state[u]] - 2) + 1 ,
-(1 - omega_s[state[u], funder[u]] ) * ( kappa_s[state[u]] - 2) + 1 )
+  y[u] ~ dbeta( omega_s[state[u], funder[u]] * ( kappa_s[state[u]] - 2) + 1 ,
+    (1 - omega_s[state[u], funder[u]] ) * ( kappa_s[state[u]] - 2) + 1 )
 }
 
 # health state distribution of utilities
 for( s in 1:n_states ) {
-for( f in 1:2) {
-omega_s[s,f] ~ dbeta(( omega_c[country[s]] + tau_omega*(f-1) ) * 
-( kappa_c[country[s]] - 2 + tau_kappa*(f-1)) + 1 ,
-( 1 - (omega_c[country[s]] + tau_omega*(f-1))) * 
-( kappa_c[country[s]] - 2 + tau_kappa*(f-1)) + 1  )
+  for( f in 1:2) {
+    omega_s[s,f] ~ dbeta(( omega_c[country[s]] + tau_omega[s]*(f-1) ) * 
+        ( kappa_c[country[s]] - 2 + tau_kappa[s]*(f-1)) + 1 ,
+      ( 1 - (omega_c[country[s]] + tau_omega[s]*(f-1))) * 
+        ( kappa_c[country[s]] - 2 + tau_kappa[s]*(f-1)) + 1  )
+  }
+  # uses the same taus for *all* states
+  tau_omega[s] ~ dnorm( mu_tau_omega , sigma_tau_omega)
+  tau_kappa[s] ~ dnorm( mu_tau_kappa , sigma_tau_kappa)
+  kappa_s[s] <- kappa_minus_two_s[s] + 2
+  kappa_minus_two_s[s] ~ dgamma( 0.01 , 0.01 )
 }
-kappa_s[s] <- kappa_minus_two_s[s] + 2
-kappa_minus_two_s[s] ~ dgamma( 0.01 , 0.01 )
-}
-# uses the same taus for *all* states
-tau_omega ~ dnorm( mu_tau_omega , sigma_tau_omega)
-tau_kappa ~ dnorm( mu_tau_kappa , sigma_tau_kappa)
-mu_tau_omega ~ dnorm(0,1)
+mu_tau_omega ~ dnorm(0,5)
 sigma_tau_omega ~ dgamma(0.01 , 0.01)
-mu_tau_kappa ~ dnorm(0,1)
+mu_tau_kappa ~ dnorm(0,5)
 sigma_tau_kappa ~ dgamma(0.01 , 0.01)
 
 # country-level distribution of utility values
 for( c in 1:n_country ) {
-omega_c[c] ~ dbeta( omega0 * ( kappa0 - 2 ) + 1 ,
-( 1 - omega0 ) * ( kappa0 - 2 ) + 1 )
-kappa_c[c] <- kappa_minus_two_c[c] + 2
-kappa_minus_two_c[c] ~ dgamma( 0.01 , 0.01 ) 
+  omega_c[c] ~ dbeta( omega0 * ( kappa0 - 2 ) + 1 ,
+    ( 1 - omega0 ) * ( kappa0 - 2 ) + 1 )
+  kappa_c[c] <- kappa_minus_two_c[c] + 2
+  kappa_minus_two_c[c] ~ dgamma( 0.01 , 0.01 ) 
 }
 #kappa_c_s ~ dgamma( 0.01 , 0.01 )
 #kappa_c_r ~ dgamma( 0.01 , 0.01 )
@@ -96,7 +96,7 @@ dataList <- list(
 
 ###### RUN CHAINS
 
-n_chains <- 3 # set this value to equal k-1 where k = # of cores in your pc 
+n_chains <- 7 # set this value to equal k-1 where k = # of cores in your pc 
 # (3 laptop, 7 desktop)
 n_adapt_steps <- 1000
 n_burnin_steps <- 1000
@@ -109,7 +109,8 @@ run_jags_out <- run.jags( method = "parallel",
                           monitor = c("tau_omega",
                                       "tau_kappa",
                                       "omega_s",
-                                      "kappa_s"),
+                                      "kappa_s",
+                                      "omega_c"),
                           data = dataList,
                           #inits = ...,
                           n.chains = n_chains,
@@ -122,7 +123,7 @@ run_jags_out <- run.jags( method = "parallel",
 coda_samples <- as.mcmc.list( run_jags_out )
 
 # save to a more easily manipulated format
-mcmc_chain2 <- as.data.frame(as.matrix(coda_samples))
+#mcmc_chain2 <- as.data.frame(as.matrix(coda_samples))
 
 # find probability of overlap in means for distribution w/ and w/o private funding
 
@@ -136,5 +137,20 @@ mcmc_chain2 <- as.data.frame(as.matrix(coda_samples))
 #}
 #omegas_diff$temp <- NULL
 
-hist(mcmc_chain2$tau_omega)
+# prep parameters for graphing
+tau_intercepts <- utils %>%
+  select(health_state, state_num) %>%
+  distinct(health_state, state_num) %>%
+  rename(Label = health_state)
+tau_intercepts$Parameter <- lapply(tau_intercepts$state_num,
+                                   function(x) paste("tau_omega[", x, "]", sep=""))
+tau_intercepts$state_num <- NULL
+tau_intercepts$Parameter <- as.character(tau_intercepts$Parameter)
+tau_intercepts <- arrange(tau_intercepts, Parameter, Label)
 
+# create caterpillar plot
+library(ggmcmc)
+mcmc <- ggs(coda_samples,
+            par_labels = tau_intercepts,
+            family = "^tau_omega")
+ggs_caterpillar(mcmc)
