@@ -5,7 +5,8 @@ library(data.table)
 library(stringr)
 library(dplyr)
 
-setwd("D:/ndhen/OneDrive/School/HSERV project/Scraper")
+#setwd("D:/ndhen/OneDrive/School/HSERV project/Scraper") #desktop
+setwd("C:/Users/ndhen/Dropbox (UW)/School/HSERV project/Revision/utility-funding") #laptop
 
 # fix 'cannot be authenticated error'
 set_config(config(ssl_verifypeer = 0L))
@@ -60,26 +61,14 @@ process_weights <- function(session, number, dt){
 
 # takes a row of the weights table and returns a parsed version of that row
 parse_weight_dt <- function(row){
-  row <- substr(row, 1, nchar(row) - 6)
-  from_end <- get_utility(row)
-  temp <- data.table(article_id = substr(row, 1, 13),
-                     health_state = substr(row, 14, nchar(row) - from_end - 1),
-                     utility = substring(row, nchar(row) - from_end))
+  row = substr(row, 1, nchar(row) - 6)
+  article_id = substr(row, 1, 13)
+  row = substr(row, 14, nchar(row))
+  from_end = str_locate_all(row, "0\\.")[[1]][1]
+  temp <- data.table(article_id = article_id,
+                     health_state = substr(row, 1, from_end - 1),
+                     utility = substring(row, from_end))
   return(temp)
-}
-
-# takes a string and returns spaces from end of utility substring
-get_utility <- function(row){
-  options(warn = -1)
-  for(i in 6:1){
-    temp <- substring(row, nchar(row) - i)
-    if(as.numeric(temp) >= 0 & as.numeric(temp) <= 1 & !is.na(as.numeric(temp))){
-      options(warn = 0)
-      return(i)
-    }
-  }
-  options(warn = 0)
-  return(NA)
 }
 
 # initializes empty weight data table
@@ -95,8 +84,8 @@ weight_wrapper <- function(session, year, start, end, dt){
   for(i in as.numeric(start):as.numeric(end)){
     id <- str_c(year, "-01-", str_pad(i, 5, pad = "0"))
     dt <- process_weights(session, id, dt)
-    print(id)
-    Sys.sleep(0.5)
+    print(paste(c(i, " of ", end), sep=""))
+    Sys.sleep(0.7)
   }
   return(dt)
 }
@@ -104,33 +93,33 @@ weight_wrapper <- function(session, year, start, end, dt){
 # aaaaand scrape!
 weights <- init_weight_dt()
 weights_2002 <- weight_wrapper(hello.out, "2002", "00000", "03046", weights)
-write.csv(weights_2002, "weights_2002.csv")
+write.csv(weights_2002, "weights_2002.csv", row.names = FALSE)
 weights_2003 <- weight_wrapper(hello.out, "2003", "00000", "03046", weights)
-write.csv(weights_2003, "weights_2003.csv")
+write.csv(weights_2003, "weights_2003.csv", row.names = FALSE)
 weights_2004 <- weight_wrapper(hello.out, "2004", "00000", "03046", weights)
-write.csv(weights_2004, "weights_2004.csv")
+write.csv(weights_2004, "weights_2004.csv", row.names = FALSE)
 weights_2005 <- weight_wrapper(hello.out, "2005", "00000", "03046", weights)
-write.csv(weights_2005, "weights_2005.csv")
+write.csv(weights_2005, "weights_2005.csv", row.names = FALSE)
 weights_2006 <- weight_wrapper(hello.out, "2006", "00000", "03046", weights)
-write.csv(weights_2006, "weights_2006.csv")
+write.csv(weights_2006, "weights_2006.csv", row.names = FALSE)
 weights_2007 <- weight_wrapper(hello.out, "2007", "02660", "03528", weights)
-write.csv(weights_2007, "weights_2007.csv")
+write.csv(weights_2007, "weights_2007.csv", row.names = FALSE)
 weights_2008 <- weight_wrapper(hello.out, "2008", "03046", "05560", weights)
-write.csv(weights_2008, "weights_2008.csv")
+write.csv(weights_2008, "weights_2008.csv", row.names = FALSE)
 weights_2009 <- weight_wrapper(hello.out, "2009", "03528", "06448", weights)
-write.csv(weights_2009, "weights_2009.csv")
+write.csv(weights_2009, "weights_2009.csv", row.names = FALSE)
 weights_2010 <- weight_wrapper(hello.out, "2010", "05560", "07718", weights)
-write.csv(weights_2010, "weights_2010.csv")
+write.csv(weights_2010, "weights_2010.csv", row.names = FALSE)
 weights_2011 <- weight_wrapper(hello.out, "2011", "06448", "09736", weights)
-write.csv(weights_2011, "weights_2011.csv")
+write.csv(weights_2011, "weights_2011.csv", row.names = FALSE)
 weights_2012 <- weight_wrapper(hello.out, "2012", "07718", "10878", weights)
-write.csv(weights_2012, "weights_2012.csv")
+write.csv(weights_2012, "weights_2012.csv", row.names = FALSE)
 weights_2013 <- weight_wrapper(hello.out, "2013", "09736", "17011", weights)
-write.csv(weights_2013, "weights_2013.csv")
+write.csv(weights_2013, "weights_2013.csv", row.names = FALSE)
 weights_2014 <- weight_wrapper(hello.out, "2014", "17011", "21400", weights)
-write.csv(weights_2014, "weights_2014.csv")
+write.csv(weights_2014, "weights_2014.csv", row.names = FALSE)
 weights_2015 <- weight_wrapper(hello.out, "2015", "10878", "21400", weights)
-write.csv(weights_2015, "weights_2015.csv")
+write.csv(weights_2015, "weights_2015.csv", row.names = FALSE)
 weights <- rbind(weights_2015, weights_2014, weights_2013, weights_2012,
                  weights_2011, weights_2010, weights_2009, weights_2008,
                  weights_2007, weights_2006, weights_2005, weights_2004,
@@ -206,10 +195,7 @@ parse_article_dt <- function(table){
 # takes a year, range of article IDs, and data table. Returns a data table with 
 # the parsed info of all articles in that range / year.
 article_wrapper <- function(session, weights, dt){
-  weights_uniq <- weights %>%
-    group_by(article_id) %>%
-    distinct(article_id)
-  for(i in 1:dim(weights_uniq)[[1]]){
+  for(i in 1:dim(weights)[[1]]){
     id <- weights_uniq[i,]$article_id
     dt <- process_article(session, id, dt)
     print(id)
