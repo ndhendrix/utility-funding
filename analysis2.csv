@@ -1,0 +1,1707 @@
+health_state,utility,setting,funding
+Colorectal cancer: progressive / late stage,0.25,United States,GovernmentFoundationPharm Or DeviceOther
+Colorectal cancer: progression-free / early stage,0.74,United States,GovernmentFoundationPharm Or DeviceOther
+Colorectal cancer: progressive / late stage,0.59,United States,GovernmentFoundationPharm Or DeviceOther
+Colorectal cancer: progressive / late stage,0.65,China,None
+Colorectal cancer: progression-free / early stage,0.85,China,None
+Breast cancer: progression-free / early stage,0.9,Iran,None
+Breast cancer: progression-free / early stage,0.8,Iran,None
+Breast cancer: progressive / late stage,0.7,Iran,None
+Breast cancer: progressive / late stage,0.3,Iran,None
+Lung cancer: progression-free / early stage,0.62,Australia,GovernmentOther
+Lung cancer: progressive / late stage,0.46,Australia,GovernmentOther
+Lung cancer: progressive / late stage,0.47,China,Pharm Or Device
+Lung cancer: progression-free / early stage,0.65,China,Pharm Or Device
+Breast cancer: progressive / late stage,0.65,United Kingdom,Foundation
+Hepatitis C: chronic infection,0.875,Italy,None
+Hepatitis C: chronic infection,0.86,Italy,None
+Compensated cirrhosis,0.877,Italy,None
+Compensated cirrhosis,0.848,Italy,None
+Compensated cirrhosis,0.833,Italy,None
+Hepatitis C: chronic infection,0.904,Italy,None
+Decompensated cirrhosis,0.848,Italy,None
+Hepatitis B: chronic infection,0.87,United Kingdom,Government
+Compensated cirrhosis,0.81,United Kingdom,Government
+Decompensated cirrhosis,0.49,United Kingdom,Government
+CVD: mild (Rankin 0-1),0.6151,Greece,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.5646,Greece,Pharm Or Device
+CVD: severe (Rankin 4-5),0.5142,Greece,Pharm Or Device
+Breast cancer: progressive / late stage,0.48,United States,Government
+Breast cancer: progressive / late stage,0.37,United States,Government
+Breast cancer: progressive / late stage,0.29,United States,Government
+Breast cancer: progressive / late stage,0.65,United States,Government
+COPD: mild to moderate,0.73,Sweden,Pharm Or Device
+COPD: exacerbation,0.72,Sweden,Pharm Or Device
+COPD: exacerbation,0.73,Sweden,Pharm Or Device
+COPD: exacerbation,0.51,Sweden,Pharm Or Device
+COPD: severe to very severe,0.74,Sweden,Pharm Or Device
+COPD: exacerbation,0.69,Sweden,Pharm Or Device
+COPD: exacerbation,0.7,Sweden,Pharm Or Device
+COPD: exacerbation,0.49,Sweden,Pharm Or Device
+COPD: severe to very severe,0.52,Sweden,Pharm Or Device
+Past M.I. (<1 year),0.58,China,Government
+Past M.I. (<1 year),0.94,China,Government
+Stable angina,0.91,China,Government
+"Alzheimer's: mild, independent living",0.71,Spain,Pharm Or Device
+"Alzheimer's: severe, not independent",0.51,Spain,Pharm Or Device
+"Alzheimer's: severe, not independent",0.34,Spain,Pharm Or Device
+Past M.I. (<1 year),0.87,Canada,GovernmentFoundationHealth Care
+Past M.I. (>1 year),0.94,Canada,GovernmentFoundationHealth Care
+Past M.I. (>1 year),0.95,Canada,GovernmentFoundationHealth Care
+Lung cancer: progressive / late stage,0.5517,United Kingdom,GovernmentFoundationHealth Care
+Lung cancer: progressive / late stage,0.5548,United Kingdom,GovernmentFoundationHealth Care
+Lung cancer: progressive / late stage,0.576,United Kingdom,GovernmentFoundationHealth Care
+Lung cancer: progressive / late stage,0.5756,United Kingdom,GovernmentFoundationHealth Care
+Lung cancer: progression-free / early stage,0.6482,United Kingdom,GovernmentFoundationHealth Care
+Lung cancer: progression-free / early stage,0.6407,United Kingdom,GovernmentFoundationHealth Care
+Lung cancer: progression-free / early stage,0.6438,United Kingdom,GovernmentFoundationHealth Care
+Lung cancer: progression-free / early stage,0.6193,United Kingdom,GovernmentFoundationHealth Care
+CVD: mild (Rankin 0-1),0.6151,Argentina,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.5646,Argentina,Pharm Or Device
+CVD: severe (Rankin 4-5),0.5142,Argentina,Pharm Or Device
+Colorectal cancer: progressive / late stage,0.762,Germany,Government
+"Alzheimer's: severe, not independent",0.89,United States,Pharm Or Device
+"Alzheimer's: severe, not independent",0.86,United States,Pharm Or Device
+"Alzheimer's: severe, not independent",0.88,United States,Pharm Or Device
+"Alzheimer's: severe, not independent",0.86,United States,Pharm Or Device
+"Alzheimer's: severe, not independent",0.42,United States,Pharm Or Device
+"Alzheimer's: severe, not independent",0.46,United States,Pharm Or Device
+"Alzheimer's: severe, not independent",0.33,United States,Pharm Or Device
+"Alzheimer's: severe, not independent",0.37,United States,Pharm Or Device
+Lung cancer: progressive / late stage,0.473,Germany,Government
+Lung cancer: progressive / late stage,0.403,Germany,Government
+Lung cancer: progressive / late stage,0.426,Germany,Government
+Lung cancer: progressive / late stage,0.4,Germany,Government
+Lung cancer: progressive / late stage,0.383,Germany,Government
+Lung cancer: progressive / late stage,0.428,Germany,Government
+Lung cancer: progressive / late stage,0.45,Germany,Government
+Lung cancer: progressive / late stage,0.383,Germany,Government
+Lung cancer: progressive / late stage,0.45,Germany,Government
+Lung cancer: progressive / late stage,0.441,Germany,Government
+Lung cancer: progressive / late stage,0.42,Germany,Government
+Lung cancer: progression-free / early stage,0.653,Germany,Government
+Lung cancer: progression-free / early stage,0.583,Germany,Government
+Lung cancer: progression-free / early stage,0.606,Germany,Government
+Lung cancer: progression-free / early stage,0.58,Germany,Government
+Lung cancer: progression-free / early stage,0.563,Germany,Government
+Lung cancer: progression-free / early stage,0.563,Germany,Government
+Lung cancer: progression-free / early stage,0.621,Germany,Government
+Lung cancer: progression-free / early stage,0.6,Germany,Government
+Lung cancer: progression-free / early stage,0.608,Germany,Government
+COPD: mild to moderate,0.838,United States,Pharm Or Device
+COPD: mild to moderate,0.873,United States,Pharm Or Device
+COPD: mild to moderate,0.729,United States,Pharm Or Device
+COPD: mild to moderate,0.765,United States,Pharm Or Device
+COPD: mild to moderate,0.801,United States,Pharm Or Device
+COPD: severe to very severe,0.625,United States,Pharm Or Device
+COPD: severe to very severe,0.653,United States,Pharm Or Device
+COPD: severe to very severe,0.692,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.482,United States,Pharm Or Device
+Breast cancer: progression-free / early stage,0.756,United States,Pharm Or Device
+Breast cancer: progression-free / early stage,0.748,United States,Pharm Or Device
+Breast cancer: progression-free / early stage,0.753,United States,Pharm Or Device
+Breast cancer: progression-free / early stage,0.767,United States,Pharm Or Device
+Compensated cirrhosis,0.74,Greece,Pharm Or Device
+Decompensated cirrhosis,0.66,Greece,Pharm Or Device
+Decompensated cirrhosis,0.66,Greece,Pharm Or Device
+Prior liver transplant (>1 year),0.69,Greece,Pharm Or Device
+Prior liver transplant (<1 year),0.69,Greece,Pharm Or Device
+Hepatitis C: chronic infection,0.76,Greece,Pharm Or Device
+Hepatitis C: chronic infection,0.76,Greece,Pharm Or Device
+Hepatitis C: chronic infection,0.76,Greece,Pharm Or Device
+Hepatitis C: chronic infection,0.76,Greece,Pharm Or Device
+Compensated cirrhosis,0.55,United Kingdom,Government
+Decompensated cirrhosis,0.45,United Kingdom,Government
+Prior liver transplant (<1 year),0.45,United Kingdom,Government
+Prior liver transplant (>1 year),0.67,United Kingdom,Government
+Compensated cirrhosis,0.72,United Kingdom,Government
+CVD: mild (Rankin 0-1),0.65,United States,Government
+CVD: moderate (Rankin 2-3),0.5,United States,Government
+CVD: severe (Rankin 4-5),0.35,United States,Government
+CVD: severe (Rankin 4-5),0.2,United States,Government
+Decompensated cirrhosis,0.6,Canada,GovernmentFoundation
+Prior liver transplant (<1 year),0.69,Canada,GovernmentFoundation
+CVD: mild (Rankin 0-1),0.75,China,Pharm Or Device
+Compensated cirrhosis,0.55,Switzerland,Pharm Or DeviceOther
+Compensated cirrhosis,0.4,Switzerland,Pharm Or DeviceOther
+Compensated cirrhosis,0.4,Switzerland,Pharm Or DeviceOther
+Decompensated cirrhosis,0.45,Switzerland,Pharm Or DeviceOther
+Hepatitis B: chronic infection,0.685,Canada,Foundation
+Hepatitis B: chronic infection,0.65,Canada,Foundation
+Hepatitis B: chronic infection,0.7,Canada,Foundation
+Hepatitis B: chronic infection,0.5,Canada,Foundation
+Hepatitis B: chronic infection,0.9,Canada,Foundation
+Hepatitis B: chronic infection,0.9,Canada,Foundation
+Compensated cirrhosis,0.81,Canada,Foundation
+Decompensated cirrhosis,0.49,Canada,Foundation
+Hepatitis B: chronic infection,0.87,Canada,Foundation
+Hepatitis B: chronic infection,0.72,Canada,Foundation
+Breast cancer: progressive / late stage,0.614,Canada,GovernmentHealth CarePro Memb Org
+Compensated cirrhosis,0.55,United Kingdom,Pharm Or Device
+Decompensated cirrhosis,0.45,United Kingdom,Pharm Or Device
+Hepatitis C: chronic infection,0.45,United Kingdom,Pharm Or Device
+Hepatitis C: chronic infection,0.74,United Kingdom,Pharm Or Device
+Hepatitis C: chronic infection,0.99,United States,Government
+Hepatitis C: chronic infection,0.88,United States,Government
+Lung cancer: progressive / late stage,0.573,Netherlands,Health Care
+Lung cancer: progression-free / early stage,0.825,Netherlands,Health Care
+Diabetes w/o complications,0.814,Spain,Pharm Or Device
+Diabetes w/ amputation,0.68,Spain,Pharm Or Device
+Diabetes w/ dialysis,0.49,Spain,Pharm Or Device
+Past M.I. (>1 year),0.736,Spain,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.624,Spain,Pharm Or Device
+Diabetes w/ dialysis,0.56,Spain,Pharm Or Device
+CVD: mild (Rankin 0-1),0.63,Australia,GovernmentFoundationPharm Or Device
+Major depressive order: moderate,0.46,Taiwan,Health Care
+Major depressive order: severe,0.27,Taiwan,Health Care
+Hepatitis B: chronic infection,0.52,China,Government
+Compensated cirrhosis,0.57,China,Government
+Decompensated cirrhosis,0.26,China,Government
+Decompensated cirrhosis,0.672,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.79,United States,Pharm Or Device
+Compensated cirrhosis,0.748,United States,Pharm Or Device
+Compensated cirrhosis,0.69,Canada,Government
+Decompensated cirrhosis,0.65,Canada,Government
+Hepatitis C: chronic infection,0.73,Canada,Government
+Hepatitis C: chronic infection,0.71,Canada,Government
+Hepatitis C: chronic infection,0.75,Canada,Government
+Hepatitis C: chronic infection,0.72,Canada,Government
+Hepatitis C: chronic infection,0.62,United States,Government
+Hepatitis C: chronic infection,0.48,United States,Government
+Hepatitis C: chronic infection,0.89,United States,Government
+Hepatitis C: chronic infection,0.9,United States,Government
+Hepatitis C: chronic infection,0.95,United States,Government
+CVD: mild (Rankin 0-1),0.9,Spain,Pro Memb Org
+CVD: mild (Rankin 0-1),0.68,Spain,Pro Memb Org
+CVD: moderate (Rankin 2-3),0.47,Spain,Pro Memb Org
+CVD: moderate (Rankin 2-3),0.2,Spain,Pro Memb Org
+CVD: severe (Rankin 4-5),0.07,Spain,Pro Memb Org
+Past M.I. (>1 year),0.9,United States,GovernmentOther
+Past M.I. (<1 year),0.88,United States,GovernmentOther
+Breast cancer: progression-free / early stage,0.87,United States,Government
+Breast cancer: progressive / late stage,0.84,United States,Government
+Breast cancer: progression-free / early stage,0.91,United States,Government
+Breast cancer: progression-free / early stage,0.99,United States,Government
+Breast cancer: progressive / late stage,0.23,United States,Government
+Breast cancer: progressive / late stage,0.443,Australia,Foundation
+CVD: mild (Rankin 0-1),0.771,Japan,Pharm Or Device
+CVD: mild (Rankin 0-1),0.784,Japan,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.431,Japan,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.443,Japan,Pharm Or Device
+CVD: severe (Rankin 4-5),0.092,Japan,Pharm Or Device
+CVD: severe (Rankin 4-5),0.092,Japan,Pharm Or Device
+Stable angina,0.54,United Kingdom,Pharm Or Device
+Stable angina,0.76,United Kingdom,Pharm Or Device
+Stable angina,0.65,United Kingdom,Pharm Or Device
+Hepatitis B: chronic infection,0.85,China,Pro Memb Org
+Hepatitis B: chronic infection,0.69,China,Pro Memb Org
+Decompensated cirrhosis,0.35,China,Pro Memb Org
+CVD: mild (Rankin 0-1),0.6151,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.5646,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.5142,United States,Pharm Or Device
+COPD: mild to moderate,0.86,United Kingdom,Government
+COPD: mild to moderate,0.81,United Kingdom,Government
+CVD: mild (Rankin 0-1),0.9,Netherlands,Government
+CVD: moderate (Rankin 2-3),0.66,Netherlands,Government
+CVD: severe (Rankin 4-5),0.43,Netherlands,Government
+CVD: severe (Rankin 4-5),0.18,Netherlands,Government
+CVD: mild (Rankin 0-1),0.598,United Kingdom,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.543,United Kingdom,Pharm Or Device
+CVD: mild (Rankin 0-1),0.669,United Kingdom,Pharm Or Device
+CVD: severe (Rankin 4-5),0.451,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.55,United Kingdom,Pharm Or Device
+Hepatitis C: chronic infection,0.77,United Kingdom,Pharm Or Device
+Hepatitis C: chronic infection,0.66,United Kingdom,Pharm Or Device
+Hepatitis C: chronic infection,0.77,United Kingdom,Pharm Or Device
+Hepatitis C: chronic infection,0.66,United Kingdom,Pharm Or Device
+Decompensated cirrhosis,0.45,United Kingdom,Pharm Or Device
+Prior liver transplant (<1 year),0.45,United Kingdom,Pharm Or Device
+Prior liver transplant (>1 year),0.45,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.78,Belgium,Pharm Or DeviceOther
+Hepatitis B: chronic infection,0.82,Belgium,Pharm Or DeviceOther
+Decompensated cirrhosis,0.49,Belgium,Pharm Or DeviceOther
+Prior liver transplant (<1 year),0.71,Belgium,Pharm Or DeviceOther
+Hepatitis B: chronic infection,0.68,Italy,Pharm Or Device
+Past M.I. (<1 year),0.875,Switzerland,Pharm Or Device
+CVD: mild (Rankin 0-1),0.65,Switzerland,Pharm Or Device
+Lung cancer: progressive / late stage,0.47,China,Foundation
+COPD: exacerbation,0.99,Switzerland,Pharm Or Device
+COPD: exacerbation,0.958,Switzerland,Pharm Or Device
+COPD: severe to very severe,0.751,Switzerland,Pharm Or Device
+COPD: severe to very severe,0.657,Switzerland,Pharm Or Device
+Hepatitis C: chronic infection,0.75,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.79,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.72,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.79,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.4964,United Kingdom,Pharm Or Device
+Breast cancer: progression-free / early stage,0.7733,United Kingdom,Pharm Or Device
+Colorectal cancer: progression-free / early stage,0.71,United Kingdom,None
+Colorectal cancer: progression-free / early stage,0.68,United Kingdom,None
+Colorectal cancer: progressive / late stage,0.48,United Kingdom,None
+Colorectal cancer: progressive / late stage,0.24,United Kingdom,None
+Breast cancer: progressive / late stage,0.45,Spain,Pharm Or Device
+Breast cancer: progression-free / early stage,0.65,Spain,Pharm Or Device
+Colorectal cancer: progression-free / early stage,0.75,United Kingdom,Government
+Colorectal cancer: progressive / late stage,0.69,United Kingdom,Government
+Colorectal cancer: progression-free / early stage,0.78,United Kingdom,Government
+Colorectal cancer: progressive / late stage,0.69,United Kingdom,Government
+Colorectal cancer: progressive / late stage,0.69,United Kingdom,Government
+Colorectal cancer: progression-free / early stage,0.78,United Kingdom,Government
+Colorectal cancer: progressive / late stage,0.69,United Kingdom,Government
+Colorectal cancer: progression-free / early stage,0.74,United States,Other
+Colorectal cancer: progression-free / early stage,0.67,United States,Other
+Colorectal cancer: progressive / late stage,0.5,United States,Other
+Colorectal cancer: progressive / late stage,0.25,United States,Other
+Unstable angina,0.66,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.79,Italy,Pharm Or Device
+Breast cancer: progressive / late stage,0.89,Italy,Pharm Or Device
+Breast cancer: progressive / late stage,0.86,Italy,Pharm Or Device
+Breast cancer: progressive / late stage,0.45,Italy,Pharm Or Device
+Breast cancer: progressive / late stage,0.81,Italy,Pharm Or Device
+Breast cancer: progressive / late stage,0.65,Italy,Pharm Or Device
+Major depressive order: severe,0.58,United Kingdom,Government
+Major depressive order: severe,0.3,United Kingdom,Government
+Diabetes w/ amputation,0.891,Spain,Pharm Or Device
+Diabetes w/ dialysis,0.621,Spain,Pharm Or Device
+Past M.I. (>1 year),0.736,Spain,Pharm Or Device
+Past M.I. (<1 year),0.871,Spain,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.63,Spain,Pharm Or Device
+Past M.I. (>1 year),0.95,Canada,Government
+Past M.I. (<1 year),0.87,Canada,Government
+Past M.I. (>1 year),0.94,Canada,Government
+Hepatitis C: chronic infection,0.73,United States,Government
+Compensated cirrhosis,0.74,United States,Government
+Decompensated cirrhosis,0.69,United States,Government
+Prior liver transplant (>1 year),0.7,United States,Government
+Prior liver transplant (<1 year),0.7,United States,Government
+Hepatitis C: chronic infection,0.87,United Kingdom,Government
+Hepatitis C: chronic infection,0.92,United Kingdom,Government
+Compensated cirrhosis,0.85,United Kingdom,Government
+Decompensated cirrhosis,0.74,United Kingdom,Government
+Compensated cirrhosis,0.28,United Kingdom,Government
+Decompensated cirrhosis,0.3,United Kingdom,Government
+Hepatitis C: chronic infection,0.92,United Kingdom,Government
+Hepatitis C: chronic infection,0.89,United Kingdom,Government
+Hepatitis C: chronic infection,0.89,United Kingdom,Government
+Breast cancer: progressive / late stage,0.424,United States,None
+CVD: severe (Rankin 4-5),0.205,Canada,Foundation
+CVD: severe (Rankin 4-5),0.39,Canada,Foundation
+CVD: severe (Rankin 4-5),0.11,Canada,Foundation
+Diabetes w/o complications,0.639,United Kingdom,Government
+Diabetes w/o complications,0.672,United Kingdom,Government
+Compensated cirrhosis,0.69,Brazil,None
+Decompensated cirrhosis,0.35,Brazil,None
+Prior liver transplant (<1 year),0.57,Brazil,None
+Prior liver transplant (>1 year),0.67,Brazil,None
+Hepatitis B: chronic infection,0.68,Brazil,None
+Stable angina,0.832,Canada,Government
+Stable angina,0.533,Canada,Government
+CVD: moderate (Rankin 2-3),0.46,Portugal,Pharm Or Device
+CVD: mild (Rankin 0-1),0.87,Germany,None
+CVD: mild (Rankin 0-1),0.9,Germany,None
+Diabetes w/ peripheral neuropathy,0.646,China,Government
+Diabetes w/ peripheral neuropathy,0.641,China,Government
+Diabetes w/ peripheral neuropathy,0.551,China,Government
+Diabetes w/ peripheral neuropathy,0.667,China,Government
+Diabetes w/ peripheral neuropathy,0.662,China,Government
+Diabetes w/ peripheral neuropathy,0.572,China,Government
+"Alzheimer's: mild, independent living",0.6,France,Pharm Or Device
+"Alzheimer's: severe, not independent",0.34,France,Pharm Or Device
+Major depressive order: severe,0.267,Italy,None
+Major depressive order: severe,0.57,Italy,None
+Diabetes w/ peripheral neuropathy,0.823,United States,FoundationOther
+Lung cancer: progression-free / early stage,0.772,United States,FoundationOther
+Lung cancer: progressive / late stage,0.573,United States,FoundationOther
+Breast cancer: progressive / late stage,0.76,Brazil,Government
+Breast cancer: progressive / late stage,0.7,Brazil,Government
+Breast cancer: progressive / late stage,0.68,Brazil,Government
+Breast cancer: progression-free / early stage,0.739,Brazil,Government
+Breast cancer: progression-free / early stage,0.762,Brazil,Government
+CVD: severe (Rankin 4-5),0.27,United Kingdom,Government
+CVD: mild (Rankin 0-1),0.85,United Kingdom,Government
+Decompensated cirrhosis,0.45,Spain,None
+Hepatitis C: chronic infection,0.45,Spain,None
+Hepatitis C: chronic infection,0.77,Spain,None
+Hepatitis C: chronic infection,0.66,Spain,None
+Lung cancer: progression-free / early stage,0.7086,Israel,GovernmentOther
+Lung cancer: progression-free / early stage,0.3412,Israel,GovernmentOther
+Lung cancer: progressive / late stage,0.0832,Israel,GovernmentOther
+Hepatitis C: chronic infection,0.9,Italy,None
+Compensated cirrhosis,0.78,Italy,None
+Decompensated cirrhosis,0.65,Italy,None
+Hepatitis C: chronic infection,0.82,Italy,None
+Hepatitis C: chronic infection,0.98,Italy,None
+Major depressive order: severe,0.36,United States,None
+Colorectal cancer: progression-free / early stage,0.95,Canada,Other
+Colorectal cancer: progressive / late stage,0.575,Canada,Other
+Hepatitis C: chronic infection,0.82,Brazil,Other
+Compensated cirrhosis,0.78,Brazil,Other
+Decompensated cirrhosis,0.65,Brazil,Other
+Prior liver transplant (<1 year),0.5,Brazil,Other
+Prior liver transplant (>1 year),0.7,Brazil,Other
+Hepatitis C: chronic infection,0.82,Spain,Pharm Or Device
+Compensated cirrhosis,0.78,Spain,Pharm Or Device
+Decompensated cirrhosis,0.65,Spain,Pharm Or Device
+Prior liver transplant (<1 year),0.5,Spain,Pharm Or Device
+Prior liver transplant (>1 year),0.7,Spain,Pharm Or Device
+Diabetes w/ vision loss,0.519,United States,GovernmentFoundation
+Diabetes w/ amputation,0.584,United States,GovernmentFoundation
+Diabetes w/ peripheral neuropathy,0.678,United States,GovernmentFoundation
+Diabetes w/ peripheral neuropathy,0.624,United States,GovernmentFoundation
+Hepatitis B: chronic infection,0.85,Canada,FoundationOther
+Compensated cirrhosis,0.83,Canada,FoundationOther
+Decompensated cirrhosis,0.45,Canada,FoundationOther
+Hepatitis B: chronic infection,0.9,Canada,FoundationOther
+Prior liver transplant (<1 year),0.71,Canada,FoundationOther
+Hepatitis B: chronic infection,0.95,Canada,FoundationOther
+Past M.I. (<1 year),0.832,Australia,Government
+Past M.I. (>1 year),0.868,Australia,Government
+Breast cancer: progression-free / early stage,0.9,United States,Other
+Breast cancer: progression-free / early stage,0.75,United States,Other
+Breast cancer: progressive / late stage,0.75,United States,Other
+Breast cancer: progressive / late stage,0.6,United States,Other
+Breast cancer: progressive / late stage,0.484,Colombia,None
+Diabetes w/ peripheral neuropathy,0.64,Mexico,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.576,Mexico,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.608,Mexico,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.38,Mexico,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.342,Mexico,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.361,Mexico,Pharm Or Device
+Colorectal cancer: progression-free / early stage,0.89,Singapore,None
+Colorectal cancer: progression-free / early stage,0.87,Singapore,None
+Colorectal cancer: progression-free / early stage,0.67,Singapore,None
+Colorectal cancer: progressive / late stage,0.75,Singapore,None
+Colorectal cancer: progressive / late stage,0.55,Singapore,None
+Colorectal cancer: progressive / late stage,0.66,Singapore,None
+Colorectal cancer: progressive / late stage,0.25,Singapore,None
+Colorectal cancer: progression-free / early stage,0.74,Singapore,None
+Breast cancer: progression-free / early stage,0.69,United Kingdom,None
+Breast cancer: progression-free / early stage,0.78,United Kingdom,None
+Compensated cirrhosis,0.75,Japan,Other
+Decompensated cirrhosis,0.66,Japan,Other
+Lung cancer: progressive / late stage,0.47,Switzerland,Government
+Lung cancer: progression-free / early stage,0.61,Switzerland,Government
+Breast cancer: progressive / late stage,0.29,Canada,GovernmentFoundation
+Breast cancer: progressive / late stage,0.65,Canada,GovernmentFoundation
+Breast cancer: progressive / late stage,0.29,Canada,GovernmentFoundation
+Breast cancer: progression-free / early stage,0.5,Japan,Government
+Breast cancer: progression-free / early stage,0.7,Japan,Government
+Breast cancer: progression-free / early stage,0.84,Japan,Government
+Breast cancer: progression-free / early stage,0.98,Japan,Government
+Breast cancer: progression-free / early stage,0.8,Japan,Government
+Breast cancer: progression-free / early stage,0.9,Japan,Government
+Breast cancer: progression-free / early stage,0.49,Japan,Government
+Colorectal cancer: progressive / late stage,0.25,Canada,Government
+Compensated cirrhosis,0.79,United States,Other
+Decompensated cirrhosis,0.72,United States,Other
+Hepatitis C: chronic infection,0.98,United States,Other
+Hepatitis C: chronic infection,0.85,United States,Other
+Breast cancer: progressive / late stage,0.71,United States,None
+Breast cancer: progressive / late stage,0.796,United States,None
+Hepatitis C: chronic infection,0.79,United States,Government
+Decompensated cirrhosis,0.69,United States,Government
+Prior liver transplant (<1 year),0.5,United States,Government
+Prior liver transplant (>1 year),0.77,United States,Government
+Breast cancer: progressive / late stage,0.796,Australia,Government
+Colorectal cancer: progressive / late stage,0.6,Japan,FoundationOther
+Hepatitis C: chronic infection,0.62,United States,Government
+Hepatitis C: chronic infection,0.48,United States,Government
+Hepatitis C: chronic infection,0.89,United States,Government
+CVD: mild (Rankin 0-1),0.936,Sweden,GovernmentFoundation
+CVD: severe (Rankin 4-5),0.054,Sweden,GovernmentFoundation
+Breast cancer: progressive / late stage,0.5669,united states,Pharm Or Device
+CVD: mild (Rankin 0-1),0.84,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.46,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.53,United States,Pharm Or Device
+Past M.I. (>1 year),0.93,Greece,Pharm Or Device
+Past M.I. (<1 year),0.84,Greece,Pharm Or Device
+Diabetes w/ amputation,0.705,United States,Pharm Or Device
+Diabetes w/ amputation,0.68,United States,Pharm Or Device
+Diabetes w/ dialysis,0.604,United States,Pharm Or Device
+Past M.I. (<1 year),0.685,United States,Pharm Or Device
+Past M.I. (>1 year),0.736,United States,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.63,United States,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.57,United States,Pharm Or Device
+Diabetes w/ dialysis,0.612,United States,Pharm Or Device
+Diabetes w/ vision loss,0.57,United States,Pharm Or Device
+Past M.I. (>1 year),0.718,United Kingdom,GovernmentHealth Care
+Past M.I. (<1 year),0.683,United Kingdom,GovernmentHealth Care
+CVD: mild (Rankin 0-1),0.74,United Kingdom,GovernmentHealth Care
+COPD: exacerbation,0.747,Germany,Government
+COPD: exacerbation,0.837,Germany,Government
+COPD: exacerbation,0.787,Germany,Government
+COPD: exacerbation,0.747,Germany,Government
+COPD: exacerbation,0.647,Germany,Government
+COPD: exacerbation,0.71,Germany,Government
+COPD: exacerbation,0.731,Germany,Government
+COPD: exacerbation,0.77,Germany,Government
+COPD: exacerbation,0.721,Germany,Government
+COPD: exacerbation,0.731,Germany,Government
+COPD: exacerbation,0.615,Germany,Government
+COPD: exacerbation,0.634,Germany,Government
+COPD: exacerbation,0.759,Germany,Government
+COPD: mild to moderate,0.84,Germany,Government
+COPD: mild to moderate,0.79,Germany,Government
+COPD: severe to very severe,0.75,Germany,Government
+COPD: severe to very severe,0.65,Germany,Government
+Hepatitis B: chronic infection,0.68,Turkey,Other
+Compensated cirrhosis,0.69,Turkey,Other
+Decompensated cirrhosis,0.35,Turkey,Other
+Lung cancer: progressive / late stage,0.473,France,GovernmentPharm Or Device
+Lung cancer: progression-free / early stage,0.653,France,GovernmentPharm Or Device
+Lung cancer: progression-free / early stage,0.673,France,GovernmentPharm Or Device
+Past M.I. (<1 year),0.76,Greece,Pharm Or Device
+Prior liver transplant (>1 year),0.629,Belgium,GovernmentOther
+Prior liver transplant (<1 year),0.626,Belgium,GovernmentOther
+Prior liver transplant (<1 year),0.576,Belgium,GovernmentOther
+Prior liver transplant (<1 year),0.601,Belgium,GovernmentOther
+Prior liver transplant (<1 year),0.368,Belgium,GovernmentOther
+Hepatitis B: chronic infection,0.99,United States,None
+Compensated cirrhosis,0.8,United States,None
+Decompensated cirrhosis,0.6,United States,None
+Hepatitis B: chronic infection,0.6,United States,None
+Diabetes w/ amputation,0.493,Canada,GovernmentFoundationOther
+Diabetes w/ vision loss,0.699,Canada,GovernmentFoundationOther
+Past M.I. (<1 year),0.76,International,Pharm Or Device
+Stable angina,0.84,International,Pharm Or Device
+Unstable angina,0.74,International,Pharm Or Device
+Breast cancer: progressive / late stage,0.62,United States,Government
+Breast cancer: progression-free / early stage,0.92,United States,Government
+Breast cancer: progression-free / early stage,0.82,United States,Government
+Breast cancer: progression-free / early stage,0.92,United States,Government
+Breast cancer: progression-free / early stage,0.92,United States,Government
+Breast cancer: progression-free / early stage,0.92,United States,Government
+Stable angina,0.46,United States,None
+Stable angina,0.76,United States,None
+Stable angina,0.43,United States,None
+Stable angina,0.43,United States,None
+Stable angina,0.43,United States,None
+Stable angina,0.63,United States,None
+Stable angina,0.43,United States,None
+CVD: severe (Rankin 4-5),0.26,United States,Pro Memb Org
+COPD: mild to moderate,0.81,Canada,None
+COPD: mild to moderate,0.72,Canada,None
+COPD: severe to very severe,0.67,Canada,None
+COPD: exacerbation,0.519,Canada,None
+COPD: exacerbation,0.447,Canada,None
+COPD: exacerbation,0.408,Canada,None
+COPD: exacerbation,0.72,Canada,None
+COPD: exacerbation,0.658,Canada,None
+COPD: exacerbation,0.475,Canada,None
+Compensated cirrhosis,0.57,China,GovernmentHealth CarePro Memb Org
+Decompensated cirrhosis,0.26,China,GovernmentHealth CarePro Memb Org
+Hepatitis B: chronic infection,0.31,China,GovernmentHealth CarePro Memb Org
+Hepatitis B: chronic infection,0.52,China,GovernmentHealth CarePro Memb Org
+Hepatitis B: chronic infection,0.7,China,GovernmentHealth CarePro Memb Org
+Hepatitis B: chronic infection,0.52,China,GovernmentHealth CarePro Memb Org
+"Alzheimer's: severe, not independent",0.6,Switzerland,Pharm Or Device
+"Alzheimer's: severe, not independent",0.34,Switzerland,Pharm Or Device
+Lung cancer: progressive / late stage,0.67,United States,Government
+Lung cancer: progressive / late stage,0.473,United States,Government
+Lung cancer: progressive / late stage,0.563,United States,Government
+Lung cancer: progressive / late stage,0.63,United States,Government
+Lung cancer: progressive / late stage,0.605,United States,Government
+Lung cancer: progressive / late stage,0.62,United States,Government
+Lung cancer: progressive / late stage,0.67,United States,Government
+Lung cancer: progressive / late stage,0.63,United States,Government
+Lung cancer: progressive / late stage,0.64,United States,Government
+Lung cancer: progressive / late stage,0.65,United States,Government
+Lung cancer: progressive / late stage,0.563,United States,Government
+Lung cancer: progressive / late stage,0.653,United States,Government
+Breast cancer: progressive / late stage,0.4,United Kingdom,Government
+Breast cancer: progressive / late stage,0.685,Finland,Foundation
+Diabetes w/o complications,0.86,United States,GovernmentFoundation
+Lung cancer: progressive / late stage,0.473,France,Pharm Or Device
+Lung cancer: progressive / late stage,0.46,France,Pharm Or Device
+Lung cancer: progression-free / early stage,0.58,France,Pharm Or Device
+Lung cancer: progression-free / early stage,0.626,France,Pharm Or Device
+Unstable angina,0.77,United Kingdom,Government
+Past M.I. (>1 year),0.836,United Kingdom,Government
+Past M.I. (<1 year),0.76,United Kingdom,Government
+Unstable angina,0.847,United Kingdom,Government
+CVD: mild (Rankin 0-1),0.65,Canada,Pharm Or Device
+Compensated cirrhosis,0.81,Canada,Pharm Or Device
+Decompensated cirrhosis,0.49,Canada,Pharm Or Device
+Hepatitis B: chronic infection,0.87,Canada,Pharm Or Device
+Diabetes w/o complications,0.689,United States,Government
+Breast cancer: progressive / late stage,0.5,United Kingdom,Pharm Or Device
+Diabetes w/ amputation,0.402,United Kingdom,Pharm Or Device
+Past M.I. (>1 year),0.736,United Kingdom,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.63,United Kingdom,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.57,United Kingdom,Pharm Or Device
+Diabetes w/ dialysis,0.612,United Kingdom,Pharm Or Device
+Diabetes w/ vision loss,0.67,United Kingdom,Pharm Or Device
+Diabetes w/o complications,0.814,United Kingdom,Pharm Or Device
+Hepatitis B: chronic infection,0.86,United States,Pharm Or Device
+Compensated cirrhosis,0.85,United States,Pharm Or Device
+Decompensated cirrhosis,0.39,United States,Pharm Or Device
+Prior liver transplant (<1 year),0.69,United States,Pharm Or Device
+Prior liver transplant (>1 year),0.8,United States,Pharm Or Device
+Hepatitis B: chronic infection,0.93,United States,Pharm Or Device
+Colorectal cancer: progressive / late stage,0.59,United States,None
+Unstable angina,0.6542,Ireland,Foundation
+Breast cancer: progressive / late stage,0.6,United Kingdom,Government
+Colorectal cancer: progression-free / early stage,0.72,Switzerland,Foundation
+Colorectal cancer: progressive / late stage,0.77,Switzerland,Foundation
+Colorectal cancer: progression-free / early stage,0.7,United Kingdom,Government
+Colorectal cancer: progression-free / early stage,0.7,United Kingdom,Government
+Colorectal cancer: progressive / late stage,0.7,United Kingdom,Government
+Colorectal cancer: progressive / late stage,0.3,United Kingdom,Government
+Diabetes w/o complications,0.753,Canada,Pro Memb Org
+COPD: mild to moderate,0.82,Germany,Pharm Or Device
+COPD: mild to moderate,0.8,Germany,Pharm Or Device
+COPD: severe to very severe,0.77,Germany,Pharm Or Device
+COPD: severe to very severe,0.74,Germany,Pharm Or Device
+Diabetes w/o complications,0.757,United States,None
+Diabetes w/ peripheral neuropathy,0.575,United States,None
+Diabetes w/ peripheral neuropathy,0.516,United States,None
+Diabetes w/ peripheral neuropathy,0.603,United States,None
+Diabetes w/ peripheral neuropathy,0.544,United States,None
+Diabetes w/ amputation,0.572,United States,None
+Diabetes w/ peripheral neuropathy,0.557,United States,None
+COPD: exacerbation,0.475,United States,Pharm Or Device
+COPD: exacerbation,0.658,United States,Pharm Or Device
+COPD: severe to very severe,0.72,United States,Pharm Or Device
+COPD: exacerbation,0.447,United States,Pharm Or Device
+COPD: exacerbation,0.408,United States,Pharm Or Device
+COPD: severe to very severe,0.67,United States,Pharm Or Device
+Lung cancer: progressive / late stage,0.47,China,Government
+Lung cancer: progression-free / early stage,0.65,China,Government
+"Alzheimer's: severe, not independent",0.34,Canada,Pharm Or Device
+COPD: mild to moderate,0.8971,Spain,Pharm Or Device
+COPD: mild to moderate,0.7551,Spain,Pharm Or Device
+COPD: severe to very severe,0.7481,Spain,Pharm Or Device
+COPD: severe to very severe,0.5493,Spain,Pharm Or Device
+Hepatitis B: chronic infection,0.99,Taiwan,None
+Hepatitis B: chronic infection,0.73,Taiwan,None
+Decompensated cirrhosis,0.6,Taiwan,None
+Compensated cirrhosis,0.8,Taiwan,None
+CVD: mild (Rankin 0-1),0.09,United States,Health CareOther
+CVD: mild (Rankin 0-1),0.8,United States,Health CareOther
+CVD: moderate (Rankin 2-3),0.46,United States,Health CareOther
+CVD: moderate (Rankin 2-3),0.34,United States,Health CareOther
+CVD: severe (Rankin 4-5),0.3,United States,Health CareOther
+CVD: severe (Rankin 4-5),0.02,United States,Health CareOther
+Decompensated cirrhosis,0.56,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.02,United States,Pharm Or Device
+Compensated cirrhosis,0.8,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.96,United States,Pharm Or Device
+Prior liver transplant (>1 year),0.95,United States,Pharm Or Device
+Prior liver transplant (<1 year),0.8,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.9,United States,Pharm Or Device
+Hepatitis B: chronic infection,0.69,Hong Kong,Pharm Or Device
+Compensated cirrhosis,0.71,Hong Kong,Pharm Or Device
+Decompensated cirrhosis,0.27,Hong Kong,Pharm Or Device
+Hepatitis C: chronic infection,0.86,International,Pharm Or Device
+Compensated cirrhosis,0.73,International,Pharm Or Device
+Decompensated cirrhosis,0.6,International,Pharm Or Device
+Prior liver transplant (<1 year),0.75,International,Pharm Or Device
+Hepatitis C: chronic infection,0.85,International,Pharm Or Device
+Hepatitis C: chronic infection,0.77,International,Pharm Or Device
+Hepatitis C: chronic infection,0.44,International,Pharm Or Device
+Prior liver transplant (<1 year),0.66,International,Pharm Or Device
+Compensated cirrhosis,0.79,united states,GovernmentOther
+Decompensated cirrhosis,0.72,united states,GovernmentOther
+Hepatitis C: chronic infection,0.98,united states,GovernmentOther
+Hepatitis C: chronic infection,0.85,united states,GovernmentOther
+Compensated cirrhosis,0.93,united states,GovernmentOther
+Breast cancer: progressive / late stage,0.685,Netherlands,GovernmentOther
+Diabetes w/o complications,0.833,United States,Pharm Or Device
+Diabetes w/o complications,0.965,United States,Pharm Or Device
+Lung cancer: progressive / late stage,0.217,United Kingdom,Pharm Or Device
+Lung cancer: progression-free / early stage,0.426,United Kingdom,Pharm Or Device
+Lung cancer: progression-free / early stage,0.451,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.31,Taiwan,Foundation
+Decompensated cirrhosis,0.16,Taiwan,Foundation
+COPD: mild to moderate,0.787,United Kingdom,Pharm Or Device
+COPD: mild to moderate,0.75,United Kingdom,Pharm Or Device
+COPD: severe to very severe,0.647,United Kingdom,Pharm Or Device
+Past M.I. (<1 year),0.683,United Kingdom,Government
+Past M.I. (>1 year),0.718,United Kingdom,Government
+CVD: mild (Rankin 0-1),0.88,United States,Pharm Or Device
+Compensated cirrhosis,0.76,United States,Could not be DeterminedOther
+Decompensated cirrhosis,0.69,United States,Could not be DeterminedOther
+"Alzheimer's: severe, not independent",0.336,United Kingdom,Pharm Or Device
+Diabetes w/ amputation,0.28,United Kingdom,Pharm Or Device
+Diabetes w/ vision loss,0.074,United Kingdom,Pharm Or Device
+Past M.I. (>1 year),0.055,United Kingdom,Pharm Or Device
+Lung cancer: progressive / late stage,0.66,Australia,GovernmentHealth Care
+Lung cancer: progression-free / early stage,0.73,Australia,GovernmentHealth Care
+Hepatitis B: chronic infection,0.77,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.73,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.73,United Kingdom,Pharm Or Device
+Decompensated cirrhosis,0.34,United Kingdom,Pharm Or Device
+Unstable angina,0.695,United States,None
+Past M.I. (<1 year),0.77,Sweden,Foundation
+Past M.I. (<1 year),0.7,Sweden,Foundation
+Past M.I. (<1 year),0.77,Sweden,Foundation
+Past M.I. (<1 year),0.78,Sweden,Foundation
+COPD: mild to moderate,0.8971,Netherlands,Government
+COPD: mild to moderate,0.7551,Netherlands,Government
+COPD: severe to very severe,0.7481,Netherlands,Government
+COPD: severe to very severe,0.5493,Netherlands,Government
+CVD: mild (Rankin 0-1),0.0017,Netherlands,GovernmentHealth Care
+Hepatitis B: chronic infection,0.52,China,Government
+Compensated cirrhosis,0.57,China,Government
+Decompensated cirrhosis,0.26,China,Government
+Breast cancer: progressive / late stage,0.73,Spain,Pharm Or Device
+Breast cancer: progressive / late stage,0.72,Spain,Pharm Or Device
+Colorectal cancer: progressive / late stage,0.46,Canada,Government
+Colorectal cancer: progression-free / early stage,0.74,Canada,Government
+Breast cancer: progression-free / early stage,0.7,Japan,Government
+Breast cancer: progressive / late stage,0.5,Japan,Government
+Colorectal cancer: progressive / late stage,0.83,United States,GovernmentPro Memb OrgOther
+CVD: severe (Rankin 4-5),0.32,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.9,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.79,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.68,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.65,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.4,United States,Pharm Or Device
+Compensated cirrhosis,0.89,Germany,Pharm Or DeviceOther
+Decompensated cirrhosis,0.81,Germany,Pharm Or DeviceOther
+Hepatitis C: chronic infection,0.95,Germany,Pharm Or DeviceOther
+Hepatitis C: chronic infection,0.92,Germany,Pharm Or DeviceOther
+CVD: severe (Rankin 4-5),0.26,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.774,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.55,United States,Pharm Or Device
+Major depressive order: moderate,0.63,Japan,Pharm Or Device
+Major depressive order: severe,0.3,Japan,Pharm Or Device
+Breast cancer: progressive / late stage,0.7,Belgium,Pharm Or Device
+Breast cancer: progressive / late stage,0.5,Belgium,Pharm Or Device
+Prior liver transplant (<1 year),0.69,Netherlands,Government
+Prior liver transplant (>1 year),0.86,Netherlands,Government
+Compensated cirrhosis,0.74,Netherlands,Government
+Decompensated cirrhosis,0.66,Netherlands,Government
+Breast cancer: progressive / late stage,0.68,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.62,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.61,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.65,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.51,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.69,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.49,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.57,United States,Pharm Or Device
+Decompensated cirrhosis,0.45,United Kingdom,Foundation
+Hepatitis C: chronic infection,0.55,United Kingdom,Foundation
+Hepatitis C: chronic infection,0.66,United Kingdom,Foundation
+Hepatitis C: chronic infection,0.77,United Kingdom,Foundation
+Hepatitis C: chronic infection,0.66,United Kingdom,Foundation
+COPD: mild to moderate,0.832,United States,None
+COPD: mild to moderate,0.803,United States,None
+COPD: severe to very severe,0.731,United States,None
+Past M.I. (<1 year),0.9,Australia,Government
+Past M.I. (<1 year),0.8,Australia,Government
+CVD: mild (Rankin 0-1),0.89,Australia,Government
+CVD: mild (Rankin 0-1),0.9,Australia,Government
+Colorectal cancer: progressive / late stage,0.25,United States,Foundation
+"Alzheimer's: mild, independent living",0.5249,Spain,Government
+"Alzheimer's: severe, not independent",0.2014,Spain,Government
+Diabetes w/o complications,0.783,Canada,Government
+CVD: mild (Rankin 0-1),0.75,United States,GovernmentPharm Or Device
+CVD: severe (Rankin 4-5),0.39,United States,GovernmentPharm Or Device
+Compensated cirrhosis,0.71,United States,Government
+Compensated cirrhosis,0.56,United States,Government
+CVD: mild (Rankin 0-1),0.76,United States,GovernmentHealth Care
+CVD: severe (Rankin 4-5),0.11,United States,GovernmentHealth Care
+Breast cancer: progressive / late stage,0.13,Germany,Pharm Or Device
+Breast cancer: progressive / late stage,0.42,Germany,Pharm Or Device
+Breast cancer: progressive / late stage,0.53,Germany,Pharm Or Device
+Breast cancer: progressive / late stage,0.13,Germany,Pharm Or Device
+Breast cancer: progressive / late stage,0.36,Germany,Pharm Or Device
+Breast cancer: progressive / late stage,0.42,Germany,Pharm Or Device
+Breast cancer: progressive / late stage,0.63,Germany,Pharm Or Device
+Breast cancer: progressive / late stage,0.89,Germany,Pharm Or Device
+Breast cancer: progressive / late stage,0.82,Germany,Pharm Or Device
+Breast cancer: progressive / late stage,0.82,Germany,Pharm Or Device
+Prior liver transplant (>1 year),0.8,United States,Government
+Major depressive order: moderate,0.63,United Kingdom,Government
+Diabetes w/ amputation,0.473,Canada,Government
+Diabetes w/ vision loss,0.748,Canada,Government
+Past M.I. (<1 year),0.712,Canada,Government
+Past M.I. (>1 year),0.741,Canada,Government
+Diabetes w/o complications,0.753,Canada,Government
+Past M.I. (<1 year),0.76,United Kingdom,GovernmentFoundation
+Past M.I. (>1 year),0.88,United Kingdom,GovernmentFoundation
+Unstable angina,0.77,United Kingdom,GovernmentFoundation
+Unstable angina,0.88,United Kingdom,GovernmentFoundation
+Hepatitis B: chronic infection,0.68,Netherlands,GovernmentFoundation
+Compensated cirrhosis,0.69,Netherlands,GovernmentFoundation
+Decompensated cirrhosis,0.35,Netherlands,GovernmentFoundation
+Breast cancer: progressive / late stage,0.67,Canada,Pharm Or Device
+Breast cancer: progressive / late stage,0.796,United Kingdom,Pharm Or Device
+CVD: mild (Rankin 0-1),0.81,United States,None
+CVD: moderate (Rankin 2-3),0.55,United States,None
+CVD: severe (Rankin 4-5),0.25,United States,None
+Diabetes w/o complications,0.814,Denmark,Pharm Or DeviceOther
+Breast cancer: progressive / late stage,0.62,South Korea,Pharm Or Device
+Diabetes w/ amputation,0.505,China,Other
+Diabetes w/ vision loss,0.711,China,Other
+Hepatitis B: chronic infection,0.71,China,Pharm Or Device
+Compensated cirrhosis,0.76,China,Pharm Or Device
+Decompensated cirrhosis,0.266,China,Pharm Or Device
+Compensated cirrhosis,0.75,United Kingdom,Government
+Decompensated cirrhosis,0.66,United Kingdom,Government
+Hepatitis B: chronic infection,0.95,Taiwan,Pharm Or Device
+Compensated cirrhosis,0.9,Taiwan,Pharm Or Device
+Decompensated cirrhosis,0.54,Taiwan,Pharm Or Device
+Hepatitis B: chronic infection,0.81,United States,Pharm Or Device
+Compensated cirrhosis,0.82,United States,Pharm Or Device
+Decompensated cirrhosis,0.36,United States,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.88,United States,Pharm Or Device
+Diabetes w/o complications,0.814,United States,Pharm Or Device
+Diabetes w/ dialysis,0.49,United States,Pharm Or Device
+Past M.I. (>1 year),0.736,United States,Pharm Or Device
+Diabetes w/ dialysis,0.56,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.4,United States,Government
+Lung cancer: progression-free / early stage,0.451,Portugal,Pharm Or Device
+Lung cancer: progressive / late stage,0.217,Portugal,Pharm Or Device
+Breast cancer: progressive / late stage,0.62,United States,GovernmentPro Memb Org
+Diabetes w/ peripheral neuropathy,0.81,Japan,Pharm Or DeviceOther
+Diabetes w/ peripheral neuropathy,0.69,Japan,Pharm Or DeviceOther
+Diabetes w/ peripheral neuropathy,0.66,Japan,Pharm Or DeviceOther
+Diabetes w/ peripheral neuropathy,0.81,Japan,Pharm Or DeviceOther
+Past M.I. (<1 year),0.76,United Kingdom,Government
+Stable angina,0.9,United Kingdom,Government
+Stable angina,0.81,United Kingdom,Government
+Unstable angina,0.8,United Kingdom,Government
+Unstable angina,0.77,United Kingdom,Government
+Hepatitis C: chronic infection,0.46,United Kingdom,Government
+Hepatitis C: chronic infection,0.55,United Kingdom,Government
+Hepatitis C: chronic infection,0.51,United Kingdom,Government
+Decompensated cirrhosis,0.45,United Kingdom,Government
+Hepatitis C: chronic infection,0.65,United Kingdom,Government
+Hepatitis C: chronic infection,0.76,United Kingdom,Government
+Hepatitis C: chronic infection,0.75,United Kingdom,Government
+Hepatitis C: chronic infection,0.525,United Kingdom,Government
+Hepatitis C: chronic infection,0.63,United Kingdom,Government
+Hepatitis C: chronic infection,0.64,United Kingdom,Government
+Hepatitis C: chronic infection,0.6,United Kingdom,Government
+Breast cancer: progressive / late stage,0.49,Japan,Government
+Breast cancer: progression-free / early stage,0.7,Japan,Government
+Hepatitis B: chronic infection,0.81,United States,Pharm Or Device
+Compensated cirrhosis,0.82,United States,Pharm Or Device
+Decompensated cirrhosis,0.36,United States,Pharm Or Device
+Compensated cirrhosis,0.8,United States,GovernmentHealth Care
+Diabetes w/ amputation,0.705,Australia,Pharm Or Device
+Diabetes w/ amputation,0.68,Australia,Pharm Or Device
+Past M.I. (>1 year),0.736,Australia,Pharm Or Device
+Past M.I. (<1 year),0.685,Australia,Pharm Or Device
+Diabetes w/o complications,0.814,Australia,Pharm Or Device
+Diabetes w/ dialysis,0.49,Australia,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.624,Australia,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.57,Australia,Pharm Or Device
+Diabetes w/ dialysis,0.56,Australia,Pharm Or Device
+Diabetes w/ vision loss,0.4,United Kingdom,Pharm Or Device
+CVD: mild (Rankin 0-1),0.55,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.26,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.92,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.432,Canada,Pharm Or Device
+Breast cancer: progression-free / early stage,0.959,Canada,Pharm Or Device
+Breast cancer: progressive / late stage,0.288,Canada,Pharm Or Device
+Breast cancer: progressive / late stage,0.67,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.55,Australia,Pro Memb Org
+Diabetes w/ vision loss,0.66,Switzerland,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.65,Switzerland,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.65,Switzerland,Pharm Or Device
+Diabetes w/ dialysis,0.444,Switzerland,Pharm Or Device
+Diabetes w/ amputation,0.462,Switzerland,Pharm Or Device
+Stable angina,0.9,United States,Government
+Stable angina,0.974,United States,Government
+CVD: mild (Rankin 0-1),0.76,United States,Government
+CVD: moderate (Rankin 2-3),0.39,United States,Government
+Breast cancer: progression-free / early stage,0.85,United States,Pharm Or Device
+Breast cancer: progression-free / early stage,0.72,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.62,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.42,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.23,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.65,United States,GovernmentFoundation
+CVD: moderate (Rankin 2-3),0.5,United States,GovernmentFoundation
+CVD: severe (Rankin 4-5),0.27,United States,GovernmentFoundation
+Compensated cirrhosis,0.88,United States,GovernmentFoundation
+Compensated cirrhosis,0.8,United States,GovernmentFoundation
+Compensated cirrhosis,0.9,United States,GovernmentFoundation
+COPD: mild to moderate,0.809,Spain,Pharm Or Device
+COPD: severe to very severe,0.762,Spain,Pharm Or Device
+COPD: severe to very severe,0.655,Spain,Pharm Or Device
+Breast cancer: progression-free / early stage,0.85,United States,GovernmentNone
+Breast cancer: progression-free / early stage,0.85,United States,GovernmentNone
+Breast cancer: progression-free / early stage,0.92,United States,Government
+Breast cancer: progression-free / early stage,0.51,United States,Government
+Breast cancer: progression-free / early stage,0.97,United States,Government
+Breast cancer: progression-free / early stage,0.82,United States,Government
+Breast cancer: progression-free / early stage,0.58,United States,Government
+Hepatitis B: chronic infection,0.96,United Kingdom,Government
+Compensated cirrhosis,0.56,United Kingdom,Government
+Decompensated cirrhosis,0.46,United Kingdom,Government
+Colorectal cancer: progressive / late stage,0.746,United Kingdom,Pharm Or Device
+Major depressive order: moderate,0.63,United Kingdom,Government
+Major depressive order: severe,0.3,United Kingdom,Government
+Compensated cirrhosis,0.8,United States,GovernmentFoundation
+Decompensated cirrhosis,0.6,United States,GovernmentFoundation
+CVD: mild (Rankin 0-1),0.76,United Kingdom,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.39,United Kingdom,Pharm Or Device
+CVD: severe (Rankin 4-5),0.11,United Kingdom,Pharm Or Device
+COPD: mild to moderate,0.76,Greece,Pharm Or Device
+COPD: severe to very severe,0.75,Greece,Pharm Or Device
+COPD: severe to very severe,0.55,Greece,Pharm Or Device
+Breast cancer: progressive / late stage,0.65,United States,Pharm Or Device
+Decompensated cirrhosis,0.45,United Kingdom,Government
+Decompensated cirrhosis,0.45,United Kingdom,Government
+Decompensated cirrhosis,0.48,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.81,United States,Pharm Or Device
+Compensated cirrhosis,0.68,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.59,United States,Government
+Hepatitis B: chronic infection,0.94,United States,Government
+Compensated cirrhosis,0.82,United States,Government
+Decompensated cirrhosis,0.54,United States,Government
+Diabetes w/ vision loss,0.39,United States,GovernmentFoundation
+Diabetes w/ dialysis,0.36,United States,GovernmentFoundation
+Diabetes w/ amputation,0.45,United States,GovernmentFoundation
+Diabetes w/ vision loss,0.69,United States,GovernmentFoundation
+Diabetes w/ dialysis,0.61,United States,GovernmentFoundation
+Diabetes w/ amputation,0.8,United States,GovernmentFoundation
+CVD: mild (Rankin 0-1),0.76,United States,Government
+CVD: moderate (Rankin 2-3),0.39,United States,Government
+CVD: severe (Rankin 4-5),0.11,United States,Government
+Compensated cirrhosis,0.8,United States,Government
+Decompensated cirrhosis,0.5,United States,Government
+Breast cancer: progression-free / early stage,0.8,United States,Pro Memb Org
+Breast cancer: progression-free / early stage,0.9,United States,Pro Memb Org
+Breast cancer: progression-free / early stage,0.99,United States,Pro Memb Org
+"Alzheimer's: severe, not independent",0.32,Sweden,Pharm Or Device
+"Alzheimer's: mild, independent living",0.65,Sweden,Pharm Or Device
+Past M.I. (>1 year),0.93,United Kingdom,Pharm Or Device
+Past M.I. (<1 year),0.8,United Kingdom,Pharm Or Device
+Decompensated cirrhosis,0.45,United Kingdom,Government
+Hepatitis C: chronic infection,0.77,United Kingdom,Government
+Hepatitis C: chronic infection,0.66,United Kingdom,Government
+Hepatitis C: chronic infection,0.66,United Kingdom,Government
+Lung cancer: progressive / late stage,0.49,United States,Other
+Breast cancer: progression-free / early stage,0.7,United States,Other
+Past M.I. (<1 year),0.8,United Kingdom,Pharm Or Device
+Past M.I. (>1 year),0.93,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.85,United States,GovernmentOther
+Decompensated cirrhosis,0.6,United States,GovernmentOther
+Prior liver transplant (<1 year),0.86,United States,GovernmentOther
+Prior liver transplant (>1 year),0.95,United States,GovernmentOther
+Hepatitis C: chronic infection,0.96,United States,GovernmentOther
+Hepatitis C: chronic infection,0.92,United States,GovernmentOther
+COPD: mild to moderate,0.755,Netherlands,Pharm Or Device
+COPD: exacerbation,0.85,Netherlands,Pharm Or Device
+COPD: exacerbation,0.5,Netherlands,Pharm Or Device
+COPD: severe to very severe,0.748,Netherlands,Pharm Or Device
+COPD: severe to very severe,0.549,Netherlands,Pharm Or Device
+Lung cancer: progression-free / early stage,0.69,Australia,GovernmentOther
+Lung cancer: progressive / late stage,0.69,Australia,GovernmentOther
+"Alzheimer's: severe, not independent",0.6,United Kingdom,Government
+"Alzheimer's: mild, independent living",0.34,United Kingdom,Government
+Hepatitis C: chronic infection,0.82,United States,Pharm Or Device
+Compensated cirrhosis,0.78,United States,Pharm Or Device
+Decompensated cirrhosis,0.65,United States,Pharm Or Device
+Prior liver transplant (<1 year),0.5,United States,Pharm Or Device
+Prior liver transplant (>1 year),0.7,United States,Pharm Or Device
+Breast cancer: progression-free / early stage,0.62,United Kingdom,Pharm Or Device
+Breast cancer: progression-free / early stage,0.9,United Kingdom,Pharm Or Device
+COPD: mild to moderate,0.8971,Sweden,Pharm Or Device
+COPD: mild to moderate,0.7551,Sweden,Pharm Or Device
+COPD: mild to moderate,0.7481,Sweden,Pharm Or Device
+COPD: severe to very severe,0.5493,Sweden,Pharm Or Device
+Compensated cirrhosis,0.78,United States,Pro Memb Org
+Decompensated cirrhosis,0.65,United States,Pro Memb Org
+Hepatitis C: chronic infection,0.5,United States,Pro Memb Org
+Hepatitis C: chronic infection,0.82,Belgium,Pharm Or Device
+Compensated cirrhosis,0.78,Belgium,Pharm Or Device
+Decompensated cirrhosis,0.65,Belgium,Pharm Or Device
+Prior liver transplant (<1 year),0.5,Belgium,Pharm Or Device
+Prior liver transplant (>1 year),0.7,Belgium,Pharm Or Device
+Hepatitis C: chronic infection,0.87,Japan,Pharm Or Device
+Hepatitis C: chronic infection,0.8,Japan,Pharm Or Device
+Breast cancer: progressive / late stage,0.49,United States,Government
+Breast cancer: progression-free / early stage,0.7,United States,Government
+COPD: exacerbation,0.68,Canada,GovernmentFoundationPharm Or Device
+COPD: mild to moderate,0.92,Canada,GovernmentFoundationPharm Or Device
+COPD: severe to very severe,0.84,Canada,GovernmentFoundationPharm Or Device
+Hepatitis C: chronic infection,0.82,Italy,Pharm Or Device
+Compensated cirrhosis,0.78,Italy,Pharm Or Device
+Decompensated cirrhosis,0.65,Italy,Pharm Or Device
+Prior liver transplant (<1 year),0.5,Italy,Pharm Or Device
+Prior liver transplant (>1 year),0.7,Italy,Pharm Or Device
+Colorectal cancer: progressive / late stage,0.89,Netherlands,Other
+Colorectal cancer: progressive / late stage,0.73,Netherlands,Other
+Colorectal cancer: progressive / late stage,0.8,Netherlands,Other
+Colorectal cancer: progressive / late stage,0.09,Netherlands,Other
+Colorectal cancer: progressive / late stage,0.17,Netherlands,Other
+Breast cancer: progressive / late stage,0.64,United Kingdom,Pharm Or Device
+Breast cancer: progressive / late stage,0.73,United Kingdom,Pharm Or Device
+Breast cancer: progressive / late stage,0.33,United Kingdom,Pharm Or Device
+Breast cancer: progressive / late stage,0.13,United Kingdom,Pharm Or Device
+"Alzheimer's: severe, not independent",0.34,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.82,United States,Government
+Hepatitis C: chronic infection,0.98,United States,Government
+Hepatitis C: chronic infection,0.92,United States,Government
+"Alzheimer's: mild, independent living",0.37,United States,Government
+"Alzheimer's: mild, independent living",0.52,United States,Government
+"Alzheimer's: severe, not independent",0.02,United States,Government
+Compensated cirrhosis,0.83,United States,Government
+Decompensated cirrhosis,0.67,United States,Government
+Compensated cirrhosis,0.9,European Union,Government
+Decompensated cirrhosis,0.5,European Union,Government
+Prior liver transplant (<1 year),0.5,European Union,Government
+Prior liver transplant (>1 year),0.85,European Union,Government
+Prior liver transplant (>1 year),0.75,European Union,Government
+Diabetes w/ vision loss,0.69,United States,Government
+CVD: mild (Rankin 0-1),0.85,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.82,United Kingdom,Pharm Or Device
+Hepatitis C: chronic infection,0.98,United Kingdom,Pharm Or Device
+Hepatitis C: chronic infection,0.92,United Kingdom,Pharm Or Device
+Breast cancer: progressive / late stage,0.52,United States,GovernmentFoundation
+"Alzheimer's: severe, not independent",0.34,Netherlands,Foundation
+"Alzheimer's: mild, independent living",0.6,Netherlands,Foundation
+Breast cancer: progression-free / early stage,0.7,Belgium,Pharm Or Device
+Breast cancer: progressive / late stage,0.55,United States,Health Care
+Breast cancer: progression-free / early stage,0.85,United States,Health Care
+Breast cancer: progression-free / early stage,0.7,United States,Health Care
+Lung cancer: progressive / late stage,0.4734,South Korea,GovernmentFoundation
+Lung cancer: progression-free / early stage,0.6532,South Korea,GovernmentFoundation
+Lung cancer: progressive / late stage,0.4734,South Korea,GovernmentFoundation
+Breast cancer: progression-free / early stage,0.74,France,Government
+Breast cancer: progressive / late stage,0.69,France,Government
+Colorectal cancer: progressive / late stage,0.76,United States,Other
+Colorectal cancer: progression-free / early stage,0.9,United States,Other
+Lung cancer: progressive / late stage,0.47,United States,None
+Lung cancer: progression-free / early stage,0.65,United States,None
+Colorectal cancer: progressive / late stage,0.77,United States,Pharm Or Device
+Diabetes w/ dialysis,0.565,scotland,Pharm Or Device
+CVD: mild (Rankin 0-1),0.6151,United Kingdom,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.5646,United Kingdom,Pharm Or Device
+Past M.I. (<1 year),0.6098,United Kingdom,Pharm Or Device
+CVD: severe (Rankin 4-5),0.5142,United Kingdom,Pharm Or Device
+Breast cancer: progressive / late stage,0.6,Canada,Foundation
+Major depressive order: severe,0.52,Australia,Government
+Major depressive order: moderate,0.71,Australia,Government
+Lung cancer: progression-free / early stage,0.6532,Japan,Pharm Or Device
+CVD: severe (Rankin 4-5),0.38,United Kingdom,Government
+CVD: mild (Rankin 0-1),0.74,United Kingdom,Government
+Major depressive order: severe,0.42,United States,Pharm Or Device
+Major depressive order: moderate,0.67,United States,Pharm Or Device
+Stable angina,0.91,China,Government
+Past M.I. (>1 year),0.96,China,Government
+Hepatitis C: chronic infection,0.82,United States,Government
+Compensated cirrhosis,0.78,United States,Government
+Decompensated cirrhosis,0.65,United States,Government
+Prior liver transplant (<1 year),0.5,United States,Government
+Prior liver transplant (>1 year),0.7,United States,Government
+CVD: severe (Rankin 4-5),0.39,United States,Government
+CVD: mild (Rankin 0-1),0.75,United States,Government
+Lung cancer: progressive / late stage,0.573,United States,GovernmentFoundation
+Lung cancer: progression-free / early stage,0.825,United States,GovernmentFoundation
+Major depressive order: severe,0.6,United States,Government
+Past M.I. (<1 year),0.779,Sweden,Pharm Or Device
+Past M.I. (<1 year),0.821,Sweden,Pharm Or Device
+Past M.I. (>1 year),0.821,Sweden,Pharm Or Device
+Colorectal cancer: progression-free / early stage,0.762,Germany,Government
+Breast cancer: progression-free / early stage,0.6,France,Pharm Or Device
+Breast cancer: progression-free / early stage,0.78,France,Pharm Or Device
+Breast cancer: progressive / late stage,0.6,Canada,GovernmentFoundation
+Breast cancer: progression-free / early stage,0.7,Canada,GovernmentFoundation
+Compensated cirrhosis,0.8,Canada,GovernmentFoundation
+Decompensated cirrhosis,0.6,Canada,GovernmentFoundation
+Prior liver transplant (<1 year),0.69,Canada,GovernmentFoundation
+Prior liver transplant (>1 year),0.8,Canada,GovernmentFoundation
+Compensated cirrhosis,0.81,Canada,Foundation
+Decompensated cirrhosis,0.49,Canada,Foundation
+Hepatitis B: chronic infection,0.87,Canada,Foundation
+Prior liver transplant (<1 year),0.72,Canada,Foundation
+Colorectal cancer: progressive / late stage,0.69,United Kingdom,Pharm Or Device
+Colorectal cancer: progression-free / early stage,0.75,United Kingdom,Pharm Or Device
+Decompensated cirrhosis,0.45,United Kingdom,Pharm Or Device
+Hepatitis C: chronic infection,0.77,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.55,United Kingdom,Pharm Or Device
+Prior liver transplant (<1 year),0.67,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.55,Italy,Pharm Or Device
+Hepatitis C: chronic infection,0.74,Italy,Pharm Or Device
+Decompensated cirrhosis,0.45,Italy,Pharm Or Device
+Prior liver transplant (<1 year),0.45,Italy,Pharm Or Device
+Prior liver transplant (>1 year),0.67,Italy,Pharm Or Device
+Diabetes w/o complications,0.85,Norway,Pharm Or Device
+Lung cancer: progressive / late stage,0.653,United States,Other
+Decompensated cirrhosis,0.72,United States,Pharm Or DeviceHealth Care
+Hepatitis C: chronic infection,0.98,United States,Pharm Or DeviceHealth Care
+Compensated cirrhosis,0.79,United States,Pharm Or DeviceHealth Care
+Compensated cirrhosis,0.62,United States,Government
+Decompensated cirrhosis,0.48,United States,Government
+Hepatitis C: chronic infection,0.89,United States,Government
+CVD: mild (Rankin 0-1),0.75,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.75,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.65,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.65,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.39,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.39,United States,Pharm Or Device
+Diabetes w/ vision loss,0.81,China,GovernmentFoundation
+Diabetes w/o complications,0.94,China,GovernmentFoundation
+Decompensated cirrhosis,0.45,Chile,Pharm Or Device
+Decompensated cirrhosis,0.536,Chile,Pharm Or Device
+Hepatitis C: chronic infection,0.77,Chile,Pharm Or Device
+Compensated cirrhosis,0.55,Chile,Pharm Or Device
+Compensated cirrhosis,0.682,Chile,Pharm Or Device
+Prior liver transplant (<1 year),0.45,Chile,Pharm Or Device
+Prior liver transplant (>1 year),0.67,Chile,Pharm Or Device
+Prior liver transplant (<1 year),0.572,Chile,Pharm Or Device
+Prior liver transplant (>1 year),0.904,Chile,Pharm Or Device
+CVD: mild (Rankin 0-1),0.85,United States,GovernmentPro Memb Org
+CVD: mild (Rankin 0-1),0.8,United States,GovernmentPro Memb Org
+CVD: moderate (Rankin 2-3),0.7,United States,GovernmentPro Memb Org
+CVD: moderate (Rankin 2-3),0.51,United States,GovernmentPro Memb Org
+CVD: severe (Rankin 4-5),0.3,United States,GovernmentPro Memb Org
+CVD: severe (Rankin 4-5),0.15,United States,GovernmentPro Memb Org
+Hepatitis B: chronic infection,0.85,China,Pro Memb Org
+Compensated cirrhosis,0.69,China,Pro Memb Org
+Decompensated cirrhosis,0.35,China,Pro Memb Org
+Breast cancer: progressive / late stage,0.685,China,Foundation
+Breast cancer: progression-free / early stage,0.85,China,Foundation
+Breast cancer: progression-free / early stage,0.779,China,Foundation
+CVD: mild (Rankin 0-1),0.75,China,Government
+CVD: severe (Rankin 4-5),0.39,China,Government
+Major depressive order: severe,0.56,Netherlands,Foundation
+CVD: mild (Rankin 0-1),0.87,Germany,None
+CVD: moderate (Rankin 2-3),0.68,Germany,None
+CVD: severe (Rankin 4-5),0.52,Germany,None
+CVD: moderate (Rankin 2-3),0.75,Norway,None
+CVD: severe (Rankin 4-5),0.44,Norway,None
+Compensated cirrhosis,0.55,Australia,GovernmentFoundation
+Decompensated cirrhosis,0.45,Australia,GovernmentFoundation
+Prior liver transplant (<1 year),0.45,Australia,GovernmentFoundation
+Prior liver transplant (>1 year),0.67,Australia,GovernmentFoundation
+Hepatitis C: chronic infection,0.77,Australia,GovernmentFoundation
+CVD: severe (Rankin 4-5),0.65,United Kingdom,FoundationPharm Or DevicePro Memb Org
+Diabetes w/ vision loss,0.55,India,Foundation
+Diabetes w/ vision loss,0.7,India,Foundation
+Compensated cirrhosis,0.55,United Kingdom,Pharm Or Device
+Hepatitis C: chronic infection,0.77,United Kingdom,Pharm Or Device
+Decompensated cirrhosis,0.45,United Kingdom,Pharm Or Device
+Prior liver transplant (<1 year),0.45,United Kingdom,Pharm Or Device
+Prior liver transplant (>1 year),0.45,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.78,Belgium,Pharm Or DeviceOther
+Hepatitis B: chronic infection,0.82,Belgium,Pharm Or DeviceOther
+Decompensated cirrhosis,0.49,Belgium,Pharm Or DeviceOther
+Prior liver transplant (<1 year),0.71,Belgium,Pharm Or DeviceOther
+Prior liver transplant (>1 year),0.82,Belgium,Pharm Or DeviceOther
+Lung cancer: progressive / late stage,0.47,China,Foundation
+Compensated cirrhosis,0.74,Portugal,Pharm Or Device
+Decompensated cirrhosis,0.66,Portugal,Pharm Or Device
+Prior liver transplant (<1 year),0.69,Portugal,Pharm Or Device
+Hepatitis C: chronic infection,0.76,Portugal,Pharm Or Device
+Lung cancer: progressive / late stage,0.47,China,Government
+Lung cancer: progression-free / early stage,0.65,China,Government
+Major depressive order: moderate,0.58,Slovenia,Pharm Or Device
+Major depressive order: severe,0.38,Slovenia,Pharm Or Device
+Compensated cirrhosis,0.76,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.79,United States,Pharm Or Device
+Decompensated cirrhosis,0.69,United States,Pharm Or Device
+Prior liver transplant (<1 year),0.5,United States,Pharm Or Device
+Prior liver transplant (>1 year),0.77,United States,Pharm Or Device
+COPD: severe to very severe,0.751,United Kingdom,Pharm Or Device
+COPD: severe to very severe,0.657,United Kingdom,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.71,United States,GovernmentHealth CarePro Memb Org
+CVD: severe (Rankin 4-5),0.32,United States,GovernmentHealth CarePro Memb Org
+Past M.I. (<1 year),0.786,Germany,Pharm Or Device
+Past M.I. (<1 year),0.809,Germany,Pharm Or Device
+Past M.I. (<1 year),0.867,Germany,Pharm Or Device
+Past M.I. (>1 year),0.786,Germany,Pharm Or Device
+Past M.I. (>1 year),0.809,Germany,Pharm Or Device
+Past M.I. (>1 year),0.867,Germany,Pharm Or Device
+Compensated cirrhosis,0.71,Germany,None
+Decompensated cirrhosis,0.63,Germany,None
+Decompensated cirrhosis,0.63,Germany,None
+Hepatitis C: chronic infection,0.71,Germany,None
+Lung cancer: progressive / late stage,0.47,China,Government
+COPD: mild to moderate,0.82,United Kingdom,Pharm Or Device
+COPD: mild to moderate,0.8,United Kingdom,Pharm Or Device
+COPD: exacerbation,0.99,United Kingdom,Pharm Or Device
+COPD: severe to very severe,0.77,United Kingdom,Pharm Or Device
+COPD: exacerbation,0.958,United Kingdom,Pharm Or Device
+COPD: severe to very severe,0.74,United Kingdom,Pharm Or Device
+Breast cancer: progressive / late stage,0.45,Spain,Pharm Or Device
+Breast cancer: progression-free / early stage,0.65,Spain,Pharm Or Device
+"Alzheimer's: severe, not independent",0.165,United States,Government
+Compensated cirrhosis,0.9,United States,Pharm Or Device
+Decompensated cirrhosis,0.8,United States,Pharm Or Device
+Prior liver transplant (<1 year),0.84,United States,Pharm Or Device
+Prior liver transplant (>1 year),0.84,United States,Pharm Or Device
+Past M.I. (<1 year),0.82,United States,Pharm Or Device
+Past M.I. (<1 year),0.795,Australia,Government
+Breast cancer: progression-free / early stage,0.78,United Kingdom,Other
+Breast cancer: progressive / late stage,0.6,United Kingdom,Other
+Hepatitis C: chronic infection,0.82,Italy,Other
+Compensated cirrhosis,0.78,Italy,Other
+Decompensated cirrhosis,0.65,Italy,Other
+Prior liver transplant (<1 year),0.5,Italy,Other
+Prior liver transplant (>1 year),0.7,Italy,Other
+Hepatitis B: chronic infection,0.72,Canada,Pharm Or Device
+Compensated cirrhosis,0.7,Canada,Pharm Or Device
+Hepatitis C: chronic infection,0.79,Canada,Pharm Or Device
+Compensated cirrhosis,0.8,Canada,Pharm Or Device
+Prior liver transplant (<1 year),0.73,Canada,Pharm Or Device
+Prior liver transplant (>1 year),0.73,Canada,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.48,Greece,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.27,Greece,Pharm Or Device
+Colorectal cancer: progression-free / early stage,0.74,Australia,Government
+Colorectal cancer: progression-free / early stage,0.74,Australia,Government
+Colorectal cancer: progressive / late stage,0.63,Australia,Government
+Colorectal cancer: progressive / late stage,0.255,Australia,Government
+Breast cancer: progressive / late stage,0.7,United States,None
+Breast cancer: progressive / late stage,0.38,Canada,Government
+Breast cancer: progression-free / early stage,0.86,Canada,Government
+Breast cancer: progressive / late stage,0.38,Canada,Government
+Breast cancer: progression-free / early stage,0.675,Canada,Government
+CVD: mild (Rankin 0-1),0.75,Canada,Government
+CVD: severe (Rankin 4-5),0.39,Canada,Government
+CVD: mild (Rankin 0-1),0.65,Portugal,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.46,Portugal,Pharm Or Device
+Past M.I. (<1 year),0.7,Poland,Pharm Or Device
+Past M.I. (>1 year),0.8,Poland,Pharm Or Device
+Stable angina,0.8,Poland,Pharm Or Device
+Stable angina,0.9,Poland,Pharm Or Device
+CVD: mild (Rankin 0-1),0.65,Greece,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.46,Greece,Pharm Or Device
+CVD: severe (Rankin 4-5),0.3,Greece,Pharm Or Device
+Lung cancer: progression-free / early stage,0.823,United States,FoundationOther
+Lung cancer: progression-free / early stage,0.772,United States,FoundationOther
+Lung cancer: progressive / late stage,0.573,United States,FoundationOther
+CVD: severe (Rankin 4-5),0.2,Netherlands,None
+Breast cancer: progression-free / early stage,0.744,Canada,Government
+Breast cancer: progressive / late stage,0.685,Canada,Government
+Breast cancer: progressive / late stage,0.685,United Kingdom,Other
+Breast cancer: progression-free / early stage,0.695,United Kingdom,Other
+Breast cancer: progressive / late stage,0.76,Brazil,Government
+Breast cancer: progressive / late stage,0.7,Brazil,Government
+Breast cancer: progressive / late stage,0.68,Brazil,Government
+Breast cancer: progression-free / early stage,0.739,Brazil,Government
+Breast cancer: progression-free / early stage,0.762,Brazil,Government
+CVD: severe (Rankin 4-5),0.189,Belgium,Pharm Or Device
+CVD: mild (Rankin 0-1),0.641,Belgium,Pharm Or Device
+Past M.I. (<1 year),0.667,Belgium,Pharm Or Device
+CVD: severe (Rankin 4-5),0.487,Belgium,Pharm Or Device
+CVD: mild (Rankin 0-1),0.727,Belgium,Pharm Or Device
+Past M.I. (>1 year),0.703,Belgium,Pharm Or Device
+Lung cancer: progression-free / early stage,0.7086,Israel,GovernmentOther
+Lung cancer: progressive / late stage,0.3412,Israel,GovernmentOther
+Lung cancer: progressive / late stage,0.0832,Israel,GovernmentOther
+Compensated cirrhosis,0.9,United States,GovernmentPharm Or Device
+Decompensated cirrhosis,0.8,United States,GovernmentPharm Or Device
+Prior liver transplant (<1 year),0.84,United States,GovernmentPharm Or Device
+Hepatitis C: chronic infection,0.93,United States,GovernmentPharm Or Device
+Hepatitis C: chronic infection,0.93,United States,GovernmentPharm Or Device
+Past M.I. (<1 year),0.76,United States,None
+Past M.I. (>1 year),0.88,United States,None
+Breast cancer: progressive / late stage,0.62,Canada,Pharm Or Device
+Breast cancer: progression-free / early stage,0.86,Canada,Pharm Or Device
+Major depressive order: moderate,0.55,Italy,Other
+Major depressive order: severe,0.49,Italy,Other
+Major depressive order: severe,0.267,Italy,Other
+CVD: mild (Rankin 0-1),0.74,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.38,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.62,United Kingdom,Pharm Or Device
+Breast cancer: progression-free / early stage,0.86,United Kingdom,Pharm Or Device
+Breast cancer: progression-free / early stage,0.81,Colombia,None
+Breast cancer: progressive / late stage,0.484,Colombia,None
+CVD: mild (Rankin 0-1),0.9,United States,Government
+CVD: mild (Rankin 0-1),0.8,United States,Government
+CVD: moderate (Rankin 2-3),0.46,United States,Government
+CVD: moderate (Rankin 2-3),0.34,United States,Government
+CVD: severe (Rankin 4-5),0.3,United States,Government
+CVD: severe (Rankin 4-5),0.01,United States,Government
+Decompensated cirrhosis,0.45,United Kingdom,Other
+Compensated cirrhosis,0.55,United Kingdom,Other
+Prior liver transplant (<1 year),0.45,United Kingdom,Other
+Hepatitis C: chronic infection,0.77,United Kingdom,Other
+Hepatitis C: chronic infection,0.66,United Kingdom,Other
+Prior liver transplant (>1 year),0.67,United Kingdom,Other
+Lung cancer: progressive / late stage,0.51,United Kingdom,Pharm Or Device
+Lung cancer: progression-free / early stage,0.7,United Kingdom,Pharm Or Device
+Colorectal cancer: progressive / late stage,0.25,United States,Pharm Or Device
+Colorectal cancer: progression-free / early stage,0.89,Singapore,None
+Colorectal cancer: progression-free / early stage,0.87,Singapore,None
+Colorectal cancer: progression-free / early stage,0.67,Singapore,None
+Colorectal cancer: progressive / late stage,0.75,Singapore,None
+Colorectal cancer: progressive / late stage,0.55,Singapore,None
+Colorectal cancer: progressive / late stage,0.66,Singapore,None
+Colorectal cancer: progressive / late stage,0.25,Singapore,None
+Colorectal cancer: progression-free / early stage,0.74,Singapore,None
+Diabetes w/o complications,0.748,Australia,None
+Diabetes w/o complications,0.723,Australia,None
+Compensated cirrhosis,0.75,Japan,Other
+Decompensated cirrhosis,0.66,Japan,Other
+Diabetes w/o complications,0.8,Israel,Government
+Colorectal cancer: progressive / late stage,0.25,Canada,Government
+Breast cancer: progression-free / early stage,0.9,Hong Kong,Government
+Breast cancer: progression-free / early stage,0.8,Hong Kong,Government
+Breast cancer: progressive / late stage,0.7,Hong Kong,Government
+Breast cancer: progressive / late stage,0.3,Hong Kong,Government
+Hepatitis C: chronic infection,0.82,Italy,Other
+Compensated cirrhosis,0.78,Italy,Other
+Decompensated cirrhosis,0.65,Italy,Other
+Prior liver transplant (<1 year),0.5,Italy,Other
+Prior liver transplant (>1 year),0.7,Italy,Other
+COPD: exacerbation,0.99,United Kingdom,Pharm Or Device
+COPD: exacerbation,0.958,United Kingdom,Pharm Or Device
+COPD: severe to very severe,0.751,United Kingdom,Pharm Or Device
+COPD: severe to very severe,0.657,United Kingdom,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.5,United States,None
+CVD: severe (Rankin 4-5),0.534,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.842,United States,Pharm Or Device
+Diabetes w/o complications,0.79,Canada,Government
+CVD: severe (Rankin 4-5),0.39,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.76,United States,Pharm Or Device
+Major depressive order: severe,0.29,United Kingdom,Pharm Or Device
+Major depressive order: moderate,0.46,United Kingdom,Pharm Or Device
+Past M.I. (<1 year),0.84,Greece,Pharm Or Device
+Past M.I. (>1 year),0.9,Greece,Pharm Or Device
+CVD: mild (Rankin 0-1),0.88,United Kingdom,Pharm Or Device
+CVD: mild (Rankin 0-1),0.88,United Kingdom,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.74,United Kingdom,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.74,United Kingdom,Pharm Or Device
+CVD: severe (Rankin 4-5),0.38,United Kingdom,Pharm Or Device
+CVD: severe (Rankin 4-5),0.38,United Kingdom,Pharm Or Device
+Diabetes w/ vision loss,0.811,Brazil,Pharm Or Device
+Diabetes w/ amputation,0.605,Brazil,Pharm Or Device
+Diabetes w/ dialysis,0.622,Brazil,Pharm Or Device
+Diabetes w/ dialysis,0.61,Canada,Pharm Or Device
+CVD: severe (Rankin 4-5),0.39,International,None
+CVD: mild (Rankin 0-1),0.75,International,None
+Diabetes w/o complications,0.7,United Kingdom,Government
+CVD: severe (Rankin 4-5),0.38,United Kingdom,GovernmentHealth Care
+Past M.I. (>1 year),0.718,United Kingdom,GovernmentHealth Care
+Past M.I. (<1 year),0.683,United Kingdom,GovernmentHealth Care
+CVD: mild (Rankin 0-1),0.74,United Kingdom,GovernmentHealth Care
+Diabetes w/o complications,0.8,United Kingdom,GovernmentHealth Care
+Hepatitis B: chronic infection,0.94,United States,Government
+Compensated cirrhosis,0.82,United States,Government
+Decompensated cirrhosis,0.54,United States,Government
+Breast cancer: progression-free / early stage,0.42,United States,GovernmentHealth CareOther
+Breast cancer: progression-free / early stage,0.48,United States,GovernmentHealth CareOther
+Breast cancer: progression-free / early stage,0.68,United States,GovernmentHealth CareOther
+Breast cancer: progression-free / early stage,0.68,United States,GovernmentHealth CareOther
+Compensated cirrhosis,0.8,United States,Pharm Or Device
+Prior liver transplant (>1 year),0.73,United States,Pharm Or Device
+Prior liver transplant (<1 year),0.73,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.79,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.79,United States,Pharm Or Device
+Diabetes w/o complications,0.92,China,None
+Diabetes w/ amputation,0.64,China,None
+Diabetes w/ vision loss,0.846,China,None
+Diabetes w/ dialysis,0.657,China,None
+Compensated cirrhosis,0.82,Australia,None
+Decompensated cirrhosis,0.6,Australia,None
+COPD: mild to moderate,0.81,Canada,None
+COPD: mild to moderate,0.72,Canada,None
+COPD: severe to very severe,0.67,Canada,None
+COPD: mild to moderate,0.519,Canada,None
+COPD: mild to moderate,0.447,Canada,None
+COPD: severe to very severe,0.408,Canada,None
+COPD: mild to moderate,0.72,Canada,None
+COPD: mild to moderate,0.658,Canada,None
+COPD: severe to very severe,0.475,Canada,None
+"Alzheimer's: mild, independent living",0.68,Canada,Government
+"Alzheimer's: severe, not independent",0.37,Canada,Government
+Lung cancer: progression-free / early stage,0.67,United States,Government
+Lung cancer: progressive / late stage,0.473,United States,Government
+Colorectal cancer: progression-free / early stage,0.74,United States,Pharm Or Device
+Colorectal cancer: progressive / late stage,0.5,United States,Pharm Or Device
+Colorectal cancer: progressive / late stage,0.25,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.39,United States,GovernmentFoundationHealth Care
+CVD: mild (Rankin 0-1),0.75,United States,GovernmentFoundationHealth Care
+Unstable angina,0.929,United States,Pharm Or Device
+Diabetes w/o complications,0.88,United States,None
+Diabetes w/ dialysis,0.61,United States,None
+Unstable angina,0.88,United States,None
+Lung cancer: progressive / late stage,0.461,United States,Government
+CVD: mild (Rankin 0-1),0.85,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.27,United States,Pharm Or Device
+Past M.I. (<1 year),0.72,United Kingdom,Pharm Or Device
+Past M.I. (>1 year),0.68,United Kingdom,Pharm Or Device
+Lung cancer: progressive / late stage,0.473,France,Pharm Or Device
+Lung cancer: progression-free / early stage,0.626,France,Pharm Or Device
+CVD: severe (Rankin 4-5),0.5,Netherlands,Government
+CVD: mild (Rankin 0-1),0.75,Netherlands,Government
+Diabetes w/ amputation,0.72,Switzerland,Pharm Or Device
+Diabetes w/ vision loss,0.926,Switzerland,Pharm Or Device
+Diabetes w/ dialysis,0.695,Switzerland,Pharm Or Device
+CVD: mild (Rankin 0-1),0.8,United States,Government
+CVD: mild (Rankin 0-1),0.8,United States,Government
+CVD: moderate (Rankin 2-3),0.65,United States,Government
+CVD: moderate (Rankin 2-3),0.5,United States,Government
+CVD: severe (Rankin 4-5),0.35,United States,Government
+CVD: severe (Rankin 4-5),0.2,United States,Government
+Breast cancer: progression-free / early stage,0.694,United Kingdom,Pharm Or Device
+Breast cancer: progressive / late stage,0.22,United Kingdom,Pharm Or Device
+Past M.I. (<1 year),0.87,United States,Government
+Past M.I. (>1 year),0.91,United States,Government
+Breast cancer: progression-free / early stage,0.74,United Kingdom,Pharm Or Device
+Breast cancer: progressive / late stage,0.5,United Kingdom,Pharm Or Device
+Lung cancer: progressive / late stage,0.473,France,Government
+Lung cancer: progression-free / early stage,0.653,France,Government
+Lung cancer: progression-free / early stage,0.67,France,Government
+Lung cancer: progressive / late stage,0.4734,Japan,None
+Past M.I. (<1 year),0.68,United States,Government
+Colorectal cancer: progression-free / early stage,0.72,Switzerland,Foundation
+Past M.I. (<1 year),0.76,Belgium,Pharm Or Device
+Past M.I. (>1 year),0.76,Belgium,Pharm Or Device
+Past M.I. (>1 year),0.475,Belgium,None
+Past M.I. (<1 year),0.4,Belgium,None
+Diabetes w/o complications,0.545,Belgium,None
+CVD: severe (Rankin 4-5),0.455,United States,Government
+Breast cancer: progressive / late stage,0.6,Japan,Pharm Or Device
+COPD: mild to moderate,0.8971,United Kingdom,GovernmentHealth Care
+COPD: mild to moderate,0.7511,United Kingdom,GovernmentHealth Care
+COPD: severe to very severe,0.7481,United Kingdom,GovernmentHealth Care
+COPD: severe to very severe,0.5493,United Kingdom,GovernmentHealth Care
+COPD: mild to moderate,0.8951,United Kingdom,GovernmentHealth Care
+COPD: mild to moderate,0.7364,United Kingdom,GovernmentHealth Care
+COPD: severe to very severe,0.7261,United Kingdom,GovernmentHealth Care
+COPD: severe to very severe,0.5357,United Kingdom,GovernmentHealth Care
+Colorectal cancer: progressive / late stage,0.59,Taiwan,Pharm Or Device
+Colorectal cancer: progression-free / early stage,0.86,Taiwan,Pharm Or Device
+Lung cancer: progression-free / early stage,0.58,United States,None
+CVD: mild (Rankin 0-1),0.76,Canada,GovernmentFoundation
+Unstable angina,0.77,Canada,GovernmentFoundation
+CVD: severe (Rankin 4-5),0.39,Canada,GovernmentFoundation
+Lung cancer: progressive / late stage,0.47,China,Government
+Lung cancer: progression-free / early stage,0.65,China,Government
+Compensated cirrhosis,0.7,United States,GovernmentPharm Or Device
+Past M.I. (<1 year),0.6943,United Kingdom,Other
+Past M.I. (>1 year),0.7331,United Kingdom,Other
+Hepatitis B: chronic infection,0.66,canada,Pharm Or Device
+Compensated cirrhosis,0.65,canada,Pharm Or Device
+Decompensated cirrhosis,0.44,canada,Pharm Or Device
+Prior liver transplant (<1 year),0.58,canada,Pharm Or Device
+Prior liver transplant (>1 year),0.64,canada,Pharm Or Device
+Decompensated cirrhosis,0.56,United States,Pharm Or Device
+Compensated cirrhosis,0.8,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.96,United States,Pharm Or Device
+Prior liver transplant (>1 year),0.95,United States,Pharm Or Device
+Prior liver transplant (<1 year),0.8,United States,Pharm Or Device
+Hepatitis B: chronic infection,0.69,Hong Kong,Pharm Or Device
+Compensated cirrhosis,0.71,Hong Kong,Pharm Or Device
+Decompensated cirrhosis,0.27,Hong Kong,Pharm Or Device
+COPD: mild to moderate,0.8971,Netherlands,Foundation
+COPD: mild to moderate,0.7551,Netherlands,Foundation
+COPD: severe to very severe,0.7481,Netherlands,Foundation
+COPD: severe to very severe,0.5493,Netherlands,Foundation
+Diabetes w/o complications,0.7,United Kingdom,Government
+Breast cancer: progressive / late stage,0.19,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.642,Germany,Pharm Or Device
+Breast cancer: progression-free / early stage,0.766,Germany,Pharm Or Device
+Diabetes w/ dialysis,0.8,United States,Pharm Or Device
+Diabetes w/ amputation,0.895,United States,Pharm Or Device
+Diabetes w/ vision loss,0.84,United States,Pharm Or Device
+Diabetes w/o complications,0.833,United States,Pharm Or Device
+Diabetes w/o complications,0.965,United States,Pharm Or Device
+Breast cancer: progressive / late stage,0.57,Canada,Pharm Or Device
+Breast cancer: progression-free / early stage,0.816,Canada,Pharm Or Device
+Compensated cirrhosis,0.31,Taiwan,Foundation
+Decompensated cirrhosis,0.16,Taiwan,Foundation
+Lung cancer: progressive / late stage,0.65,Spain,Pharm Or Device
+Lung cancer: progressive / late stage,0.47,Spain,Pharm Or Device
+Past M.I. (<1 year),0.683,United Kingdom,Government
+Diabetes w/ vision loss,0.69,United States,Government
+Diabetes w/ dialysis,0.61,United States,Government
+Diabetes w/ amputation,0.8,United States,Government
+Breast cancer: progressive / late stage,0.5,Switzerland,Government
+Breast cancer: progression-free / early stage,0.7,Switzerland,Government
+Unstable angina,0.77,United States,Pharm Or Device
+Lung cancer: progressive / late stage,0.66,Australia,GovernmentHealth Care
+Lung cancer: progression-free / early stage,0.73,Australia,GovernmentHealth Care
+CVD: severe (Rankin 4-5),0.15,United States,GovernmentPharm Or Device
+CVD: mild (Rankin 0-1),0.65,United States,GovernmentPharm Or Device
+Diabetes w/o complications,0.88,Japan,Pharm Or Device
+Diabetes w/ dialysis,0.61,Japan,Pharm Or Device
+Breast cancer: progressive / late stage,0.64,United States,Pharm Or Device
+Breast cancer: progression-free / early stage,0.76,United States,Pharm Or Device
+Hepatitis B: chronic infection,0.52,China,Government
+Compensated cirrhosis,0.57,China,Government
+Decompensated cirrhosis,0.26,China,Government
+CVD: severe (Rankin 4-5),0.22,United States,GovernmentPharm Or Device
+CVD: moderate (Rankin 2-3),0.71,United States,GovernmentPharm Or Device
+CVD: mild (Rankin 0-1),0.95,United States,GovernmentPharm Or Device
+Past M.I. (>1 year),0.736,Japan,Pharm Or Device
+Past M.I. (<1 year),0.685,Japan,Pharm Or Device
+Hepatitis B: chronic infection,0.91,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.74,United Kingdom,Pharm Or Device
+Hepatitis C: chronic infection,0.75,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.64,United Kingdom,Pharm Or Device
+COPD: mild to moderate,0.755,United States,Pharm Or Device
+COPD: severe to very severe,0.748,United States,Pharm Or Device
+COPD: severe to very severe,0.549,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.77,France,Government
+CVD: severe (Rankin 4-5),0.32,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.9,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.79,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.68,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.65,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.4,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.8,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.8,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.65,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.5,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.35,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.2,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.75,United States,GovernmentPharm Or Device
+CVD: severe (Rankin 4-5),0.39,United States,GovernmentPharm Or Device
+Stable angina,0.81,United States,None
+Unstable angina,0.77,United States,None
+Compensated cirrhosis,0.71,United States,Government
+Decompensated cirrhosis,0.56,United States,Government
+Major depressive order: severe,0.4,Romania,Government
+Colorectal cancer: progressive / late stage,0.715,Canada,None
+Past M.I. (>1 year),0.88,United Kingdom,Government
+Past M.I. (<1 year),0.37,United Kingdom,Government
+Breast cancer: progression-free / early stage,0.74,France,Government
+Breast cancer: progressive / late stage,0.5,France,Government
+CVD: severe (Rankin 4-5),0.36,United States,Health Care
+CVD: moderate (Rankin 2-3),0.76,United States,Health Care
+Past M.I. (<1 year),0.76,United Kingdom,GovernmentFoundation
+Past M.I. (>1 year),0.88,United Kingdom,GovernmentFoundation
+Unstable angina,0.77,United Kingdom,GovernmentFoundation
+Unstable angina,0.88,United Kingdom,GovernmentFoundation
+Hepatitis B: chronic infection,0.94,China,Government
+Compensated cirrhosis,0.8,China,Government
+Decompensated cirrhosis,0.6,China,Government
+"Alzheimer's: mild, independent living",0.6,United Kingdom,Pharm Or Device
+"Alzheimer's: severe, not independent",0.34,United Kingdom,Pharm Or Device
+Breast cancer: progression-free / early stage,0.54,South Korea,Pharm Or Device
+Breast cancer: progressive / late stage,0.62,South Korea,Pharm Or Device
+Diabetes w/ amputation,0.5,European Union,Pharm Or Device
+Diabetes w/ vision loss,0.706,European Union,Pharm Or Device
+Diabetes w/o complications,0.78,European Union,Pharm Or Device
+Diabetes w/o complications,0.771,United Kingdom,Government
+"Alzheimer's: mild, independent living",0.77,United States,None
+"Alzheimer's: severe, not independent",0.35,United States,None
+Diabetes w/o complications,0.76,United Kingdom,Pharm Or Device
+Major depressive order: moderate,0.65,Netherlands,Government
+Lung cancer: progression-free / early stage,0.6,United Kingdom,Government
+Lung cancer: progressive / late stage,0.47,United States,Pharm Or Device
+Hepatitis B: chronic infection,0.81,United States,Pharm Or Device
+Compensated cirrhosis,0.82,United States,Pharm Or Device
+Decompensated cirrhosis,0.36,United States,Pharm Or Device
+"Alzheimer's: mild, independent living",0.68,Taiwan,Pharm Or Device
+"Alzheimer's: severe, not independent",0.37,Taiwan,Pharm Or Device
+Past M.I. (<1 year),0.8,United Kingdom,Pharm Or DeviceOther
+Past M.I. (>1 year),0.93,United Kingdom,Pharm Or DeviceOther
+CVD: severe (Rankin 4-5),0.52,United Kingdom,Pharm Or DeviceOther
+CVD: mild (Rankin 0-1),0.78,United Kingdom,Pharm Or DeviceOther
+Past M.I. (>1 year),0.93,United Kingdom,Pharm Or DeviceOther
+Past M.I. (<1 year),0.8,United Kingdom,Pharm Or DeviceOther
+CVD: mild (Rankin 0-1),0.74,United States,Government
+CVD: severe (Rankin 4-5),0.4,United States,Government
+Diabetes w/ dialysis,0.66,Japan,Pharm Or DeviceOther
+CVD: moderate (Rankin 2-3),0.59,Japan,Pharm Or DeviceOther
+CVD: severe (Rankin 4-5),0.28,Japan,Pharm Or DeviceOther
+CVD: mild (Rankin 0-1),0.78,Japan,Pharm Or DeviceOther
+Breast cancer: progressive / late stage,0.4,United States,Government
+Diabetes w/ amputation,0.891,United States,Pharm Or Device
+Diabetes w/ vision loss,0.794,United States,Pharm Or Device
+Diabetes w/o complications,0.814,United States,Pharm Or Device
+Diabetes w/ dialysis,0.49,United States,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.624,United States,Pharm Or Device
+Diabetes w/ dialysis,0.56,United States,Pharm Or Device
+Hepatitis B: chronic infection,0.94,United States,None
+Compensated cirrhosis,0.8,United States,None
+Decompensated cirrhosis,0.6,United States,None
+Past M.I. (>1 year),0.718,United Kingdom,Pharm Or Device
+Past M.I. (<1 year),0.683,United Kingdom,Pharm Or Device
+Hepatitis B: chronic infection,0.95,Taiwan,Pharm Or Device
+Compensated cirrhosis,0.9,Taiwan,Pharm Or Device
+Decompensated cirrhosis,0.54,Taiwan,Pharm Or Device
+Prior liver transplant (<1 year),0.5,Taiwan,Pharm Or Device
+Prior liver transplant (>1 year),0.7,Taiwan,Pharm Or Device
+Compensated cirrhosis,0.7,Belgium,Pharm Or Device
+Decompensated cirrhosis,0.65,Belgium,Pharm Or Device
+Prior liver transplant (<1 year),0.5,Belgium,Pharm Or Device
+Prior liver transplant (>1 year),0.7,Belgium,Pharm Or Device
+Hepatitis C: chronic infection,0.82,Belgium,Pharm Or Device
+Hepatitis C: chronic infection,0.78,Belgium,Pharm Or Device
+Hepatitis C: chronic infection,0.95,Belgium,None
+Hepatitis C: chronic infection,0.92,Belgium,None
+Compensated cirrhosis,0.89,Belgium,None
+Decompensated cirrhosis,0.81,Belgium,None
+Prior liver transplant (<1 year),0.86,Belgium,None
+Prior liver transplant (>1 year),0.86,Belgium,None
+Hepatitis B: chronic infection,0.87,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.84,United Kingdom,Pharm Or Device
+Decompensated cirrhosis,0.46,United Kingdom,Pharm Or Device
+Prior liver transplant (<1 year),0.42,United Kingdom,Pharm Or Device
+Prior liver transplant (>1 year),0.62,United Kingdom,Pharm Or Device
+Breast cancer: progressive / late stage,0.432,Canada,Pharm Or Device
+Breast cancer: progression-free / early stage,0.816,Canada,Pharm Or Device
+Colorectal cancer: progressive / late stage,0.65,United Kingdom,Pharm Or Device
+Colorectal cancer: progression-free / early stage,0.8,United Kingdom,Pharm Or Device
+Breast cancer: progression-free / early stage,0.8,Australia,Pro Memb Org
+Breast cancer: progressive / late stage,0.55,Australia,Pro Memb Org
+Stable angina,0.644,Switzerland,Pharm Or Device
+Diabetes w/o complications,0.66,Switzerland,Pharm Or Device
+Diabetes w/o complications,0.734,Switzerland,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.65,Switzerland,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.65,Switzerland,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.444,Switzerland,Pharm Or Device
+Diabetes w/ amputation,0.462,Switzerland,Pharm Or Device
+Breast cancer: progression-free / early stage,0.8,Norway,Health Care
+"Alzheimer's: mild, independent living",0.69,Germany,Government
+"Alzheimer's: severe, not independent",0.38,Germany,Government
+Diabetes w/o complications,0.8,Canada,Pharm Or Device
+Diabetes w/ dialysis,0.644,Canada,Pharm Or Device
+Diabetes w/ amputation,0.8,Canada,Pharm Or Device
+Diabetes w/ vision loss,0.75,Canada,Pharm Or Device
+CVD: severe (Rankin 4-5),0.5,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.75,United States,Pharm Or Device
+Major depressive order: moderate,0.63,United Kingdom,Government
+Major depressive order: severe,0.3,United Kingdom,Government
+CVD: mild (Rankin 0-1),0.85,United States,Pharm Or Device
+CVD: mild (Rankin 0-1),0.85,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.85,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.51,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.15,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.15,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.79,Italy,Pharm Or Device
+Compensated cirrhosis,0.8,Italy,Pharm Or Device
+Prior liver transplant (<1 year),0.73,Italy,Pharm Or Device
+Prior liver transplant (>1 year),0.7,Italy,Pharm Or Device
+Compensated cirrhosis,0.55,United Kingdom,Government
+Decompensated cirrhosis,0.45,United Kingdom,Government
+Hepatitis C: chronic infection,0.79,United Kingdom,Government
+Hepatitis C: chronic infection,0.68,United Kingdom,Government
+Hepatitis C: chronic infection,0.6,United Kingdom,Government
+Compensated cirrhosis,0.89,Sweden,Pharm Or Device
+Prior liver transplant (<1 year),0.8,Sweden,Pharm Or Device
+Prior liver transplant (>1 year),0.86,Sweden,Pharm Or Device
+Hepatitis C: chronic infection,0.95,Sweden,Pharm Or Device
+Hepatitis C: chronic infection,0.92,Sweden,Pharm Or Device
+Decompensated cirrhosis,0.48,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.81,United States,Pharm Or Device
+Compensated cirrhosis,0.68,United States,Pharm Or Device
+Breast cancer: progression-free / early stage,0.718,Spain,Pharm Or Device
+Breast cancer: progressive / late stage,0.462,Spain,Pharm Or Device
+Breast cancer: progressive / late stage,0.513,United States,Government
+Breast cancer: progression-free / early stage,0.65,Thailand,Government
+Breast cancer: progressive / late stage,0.62,Thailand,Government
+Hepatitis C: chronic infection,0.87,Mexico,GovernmentPharm Or Device
+Compensated cirrhosis,0.77,Mexico,GovernmentPharm Or Device
+Prior liver transplant (<1 year),0.7,Mexico,GovernmentPharm Or Device
+Prior liver transplant (>1 year),0.5,Mexico,GovernmentPharm Or Device
+Hepatitis B: chronic infection,0.94,United States,Government
+Compensated cirrhosis,0.82,United States,Government
+Decompensated cirrhosis,0.54,United States,Government
+Breast cancer: progressive / late stage,0.724,Canada,Pharm Or Device
+Breast cancer: progression-free / early stage,0.816,Canada,Pharm Or Device
+Past M.I. (>1 year),0.9,United States,GovernmentPharm Or Device
+Past M.I. (<1 year),0.88,United States,GovernmentPharm Or Device
+Breast cancer: progressive / late stage,0.58,United Kingdom,Pharm Or Device
+Breast cancer: progression-free / early stage,0.82,United Kingdom,Pharm Or Device
+Compensated cirrhosis,0.78,Belgium,Health CareNoneCould not be Determined
+Decompensated cirrhosis,0.65,Belgium,Health CareNoneCould not be Determined
+Prior liver transplant (<1 year),0.5,Belgium,Health CareNoneCould not be Determined
+Prior liver transplant (>1 year),0.7,Belgium,Health CareNoneCould not be Determined
+Past M.I. (<1 year),0.8,United States,Government
+Past M.I. (>1 year),0.87,United States,Government
+CVD: mild (Rankin 0-1),0.75,United States,GovernmentHealth Care
+CVD: moderate (Rankin 2-3),0.39,United States,GovernmentHealth Care
+CVD: severe (Rankin 4-5),0.12,United States,GovernmentHealth Care
+CVD: severe (Rankin 4-5),0.61,United States,Government
+CVD: severe (Rankin 4-5),0.2,United Kingdom,Government
+CVD: mild (Rankin 0-1),0.7,United Kingdom,Government
+Major depressive order: severe,0.3,United States,GovernmentPharm Or Device
+Diabetes w/o complications,0.88,United States,GovernmentHealth Care
+Diabetes w/ dialysis,0.61,United States,GovernmentHealth Care
+COPD: mild to moderate,0.81,Canada,Pharm Or Device
+COPD: exacerbation,0.519,Canada,Pharm Or Device
+COPD: exacerbation,0.72,Canada,Pharm Or Device
+COPD: mild to moderate,0.72,Canada,Pharm Or Device
+COPD: exacerbation,0.447,Canada,Pharm Or Device
+COPD: exacerbation,0.658,Canada,Pharm Or Device
+COPD: severe to very severe,0.67,Canada,Pharm Or Device
+COPD: exacerbation,0.408,Canada,Pharm Or Device
+COPD: exacerbation,0.475,Canada,Pharm Or Device
+CVD: severe (Rankin 4-5),0.52,Sweden,Pharm Or Device
+CVD: mild (Rankin 0-1),0.87,Sweden,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.68,Sweden,Pharm Or Device
+CVD: severe (Rankin 4-5),0.6,United States,Foundation
+Compensated cirrhosis,0.89,Germany,Pharm Or Device
+Decompensated cirrhosis,0.81,Germany,Pharm Or Device
+Hepatitis C: chronic infection,0.95,Germany,Pharm Or Device
+Hepatitis C: chronic infection,0.92,Germany,Pharm Or Device
+Hepatitis B: chronic infection,0.99,United States,GovernmentPro Memb Org
+Compensated cirrhosis,0.8,United States,GovernmentPro Memb Org
+Decompensated cirrhosis,0.6,United States,GovernmentPro Memb Org
+Breast cancer: progression-free / early stage,0.73,International,Pharm Or Device
+Breast cancer: progressive / late stage,0.48,International,Pharm Or Device
+CVD: severe (Rankin 4-5),0.52,United Kingdom,Pharm Or Device
+CVD: mild (Rankin 0-1),0.78,United Kingdom,Pharm Or Device
+Diabetes w/ amputation,0.89,Sweden,Pharm Or Device
+Diabetes w/ vision loss,0.96,Sweden,Pharm Or Device
+Diabetes w/ peripheral neuropathy,0.75,Sweden,Pharm Or Device
+Hepatitis C: chronic infection,0.79,United States,GovernmentPharm Or Device
+Decompensated cirrhosis,0.6,United States,GovernmentPharm Or Device
+Breast cancer: progressive / late stage,0.45,Italy,Pharm Or Device
+Breast cancer: progression-free / early stage,0.67,Italy,Pharm Or Device
+Compensated cirrhosis,0.85,United States,Government
+Decompensated cirrhosis,0.6,United States,Government
+Prior liver transplant (<1 year),0.86,United States,Government
+Prior liver transplant (>1 year),0.95,United States,Government
+Hepatitis C: chronic infection,0.98,United States,Government
+Hepatitis C: chronic infection,0.92,United States,Government
+"Alzheimer's: mild, independent living",0.68,Finland,Foundation
+Diabetes w/ vision loss,0.69,United States,Government
+Diabetes w/ dialysis,0.61,United States,Government
+Diabetes w/ amputation,0.8,United States,Government
+Breast cancer: progression-free / early stage,0.83,United States,FoundationHealth Care
+Breast cancer: progressive / late stage,0.3,United States,FoundationHealth Care
+CVD: severe (Rankin 4-5),0.2,Netherlands,Government
+CVD: mild (Rankin 0-1),0.8,Netherlands,Government
+"Alzheimer's: severe, not independent",0.3207,United Kingdom,Pharm Or Device
+"Alzheimer's: mild, independent living",0.6511,United Kingdom,Pharm Or Device
+Major depressive order: severe,0.25,United States,GovernmentFoundation
+Hepatitis C: chronic infection,0.82,Belgium,Pharm Or Device
+Compensated cirrhosis,0.78,Belgium,Pharm Or Device
+Decompensated cirrhosis,0.65,Belgium,Pharm Or Device
+Prior liver transplant (<1 year),0.5,Belgium,Pharm Or Device
+Prior liver transplant (>1 year),0.7,Belgium,Pharm Or Device
+Diabetes w/ vision loss,0.71,United States,Other
+CVD: severe (Rankin 4-5),0.38,United Kingdom,Government
+CVD: mild (Rankin 0-1),0.74,United Kingdom,Government
+Diabetes w/ amputation,0.5,United Kingdom,Pharm Or Device
+Diabetes w/ vision loss,0.71,United Kingdom,Pharm Or Device
+CVD: mild (Rankin 0-1),0.76,United States,GovernmentFoundation
+CVD: severe (Rankin 4-5),0.39,United States,GovernmentFoundation
+Diabetes w/ dialysis,0.68,United States,Government
+Diabetes w/ dialysis,0.621,Canada,Foundation
+Breast cancer: progression-free / early stage,0.695,United Kingdom,Pharm Or Device
+Hepatitis B: chronic infection,0.87,United States,Pharm Or Device
+Compensated cirrhosis,0.77,United States,Pharm Or Device
+Compensated cirrhosis,0.82,United States,Government
+Decompensated cirrhosis,0.53,United States,Government
+Hepatitis C: chronic infection,0.98,United States,Government
+Hepatitis C: chronic infection,0.92,United States,Government
+Compensated cirrhosis,0.62,Spain,Health Care
+Decompensated cirrhosis,0.27,Spain,Health Care
+Prior liver transplant (<1 year),0.45,Spain,Health Care
+Prior liver transplant (>1 year),0.62,Spain,Health Care
+Hepatitis C: chronic infection,0.73,Spain,Health Care
+Hepatitis C: chronic infection,0.69,Spain,Health Care
+Compensated cirrhosis,0.89,United States,Pharm Or Device
+Decompensated cirrhosis,0.81,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.95,United States,Pharm Or Device
+Hepatitis C: chronic infection,0.92,United States,Pharm Or Device
+Lung cancer: progressive / late stage,0.66,United States,Foundation
+Breast cancer: progressive / late stage,0.695,United Kingdom,Pharm Or Device
+Hepatitis B: chronic infection,0.95,Taiwan,Pharm Or DeviceOther
+Compensated cirrhosis,0.9,Taiwan,Pharm Or DeviceOther
+Decompensated cirrhosis,0.65,Taiwan,Pharm Or DeviceOther
+CVD: mild (Rankin 0-1),0.8,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.65,United States,Pharm Or Device
+CVD: moderate (Rankin 2-3),0.5,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.35,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.2,United States,Pharm Or Device
+CVD: severe (Rankin 4-5),0.25,Netherlands,Other
+CVD: mild (Rankin 0-1),0.55,Netherlands,Other
+Breast cancer: progression-free / early stage,0.68,United States,GovernmentFoundation
+Breast cancer: progressive / late stage,0.52,United States,GovernmentFoundation
+Stable angina,0.9,United States,Foundation

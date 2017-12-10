@@ -116,14 +116,18 @@ weights_2012 <- weight_wrapper(hello.out, "2012", "07718", "10878", weights)
 write.csv(weights_2012, "weights_2012.csv", row.names = FALSE)
 weights_2013 <- weight_wrapper(hello.out, "2013", "09736", "17011", weights)
 write.csv(weights_2013, "weights_2013.csv", row.names = FALSE)
-weights_2014 <- weight_wrapper(hello.out, "2014", "17011", "21400", weights)
+weights_2014 <- weight_wrapper(hello.out, "2014", "10878", "17011", weights)
 write.csv(weights_2014, "weights_2014.csv", row.names = FALSE)
 weights_2015 <- weight_wrapper(hello.out, "2015", "10878", "21400", weights)
 write.csv(weights_2015, "weights_2015.csv", row.names = FALSE)
-weights <- rbind(weights_2015, weights_2014, weights_2013, weights_2012,
-                 weights_2011, weights_2010, weights_2009, weights_2008,
-                 weights_2007, weights_2006, weights_2005, weights_2004,
-                 weights_2003, weights_2002)
+weights_2015 <- weight_wrapper(hello.out, "2016", "17011", "25000", weights)
+write.csv(weights_2015, "weights_2015.csv", row.names = FALSE)
+weights_2015 <- weight_wrapper(hello.out, "2017", "22000", "25000", weights)
+write.csv(weights_2015, "weights_2015.csv", row.names = FALSE)
+weights <- rbind(weights_2017, weights_2016, weights_2015, weights_2014, 
+                 weights_2013, weights_2012, weights_2011, weights_2010, 
+                 weights_2009, weights_2008, weights_2007, weights_2006, 
+                 weights_2005, weights_2004, weights_2003, weights_2002)
 write.csv(weights, "weights.csv")
 
 
